@@ -7,11 +7,15 @@ I’m a B.E. student focused on **AI engineering and software development**, bui
 Currently exploring **AI agents, MCP, LLM applications, and data structures & algorithms**.
 
 <p>
-  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/swapnil__1212_/">LeetCode</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/thiteswapnil1212-hue">GitHub</a>
+  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/swapnil__1212_/">
+    <img src="https://img.shields.io/badge/LeetCode-swapnil__1212_-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/thiteswapnil1212-hue">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -150,9 +154,13 @@ AI for Beginners · 2025
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/swapnil__1212_/">LeetCode</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/thiteswapnil1212-hue">GitHub</a>
+  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/swapnil__1212_/">
+    <img src="https://img.shields.io/badge/LeetCode-swapnil__1212_-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/thiteswapnil1212-hue">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
