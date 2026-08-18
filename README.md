@@ -1,41 +1,54 @@
-# 👋 Hi, I'm Swapnil Thite
+# Swapnil Thite
 
-### AI & Data Science Student | AI Engineer in Progress
+**Artificial Intelligence & Data Science Student · AI Engineering**
 
-I'm an **Artificial Intelligence & Data Science student** interested in building practical AI applications and learning how intelligent systems work.
+I’m a B.E. student focused on **AI engineering and software development**, building practical projects around LLMs, computer vision, and modern web technologies.
 
-* 🎓 B.E. in Artificial Intelligence & Data Science
-* 🤖 Exploring AI Engineering, LLMs & AI Agents
-* 👁️ Building Computer Vision projects with Python
-* 💻 Developing web applications with Next.js
-* 🧠 Currently strengthening Data Structures & Algorithms
-* 🚀 Interested in building and shipping real-world projects
+Currently exploring **AI agents, MCP, LLM applications, and data structures & algorithms**.
+
+<p>
+  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/swapnil__1212_/">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/thiteswapnil1212-hue">GitHub</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 💻 Languages
+* Pursuing B.E. in Artificial Intelligence & Data Science
+* Building practical applications with Python and modern web technologies
+* Exploring AI agents, LLM applications and computer vision
+* Working with OpenCV and MediaPipe for vision-based systems
+* Strengthening Data Structures & Algorithms and problem solving
+
+---
+
+## Technical Skills
+
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
-### 🌐 Web Development
+### AI & Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-### 🤖 AI & Computer Vision
+`MediaPipe` · `Gemini` · `LLMs` · `AI Agents` · `MCP`
+
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
 </p>
 
-**Working with:** MediaPipe · Gemini · AI Agents · MCP
-
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -43,122 +56,103 @@ I'm an **Artificial Intelligence & Data Science student** interested in building
 
 ---
 
-# 🚀 Featured Projects
+## Selected Projects
 
-## 🧠 ANVIX AI
+### ANVIX AI
 
-A multi-model AI platform built to provide access to different AI models through a unified interface.
+A multi-model AI application that brings different AI models into a unified interface, with a focus on a clean user experience and flexible model integration.
 
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · AI APIs
+**Next.js · React · TypeScript · Tailwind CSS · AI APIs**
 
-🔗 [View Repository](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
-
----
-
-## 👁️ VisionSwipe AI
-
-A computer-vision based project that uses hand gestures to interact with Instagram Reels.
-
-**Tech:** Python · OpenCV · MediaPipe · NumPy · PyAutoGUI
-
-🔗 [View Repository](https://github.com/thiteswapnil1212-hue/visionswip)
+[Repository →](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
 
 ---
 
-## 🖐️ GesturePilot AI
+### VisionSwipe AI
 
-A computer-vision project that uses hand gestures as a controller for game interaction.
+A computer-vision based interaction system that uses hand gestures to control Instagram Reels. Includes gesture recognition, stability filtering and gesture-based actions.
 
-**Tech:** Python · OpenCV · MediaPipe · NumPy · PyAutoGUI
+**Python · OpenCV · MediaPipe · NumPy · PyAutoGUI**
 
----
-
-## 📈 StockSense AI
-
-An AI-powered application designed to help users analyze stock-related information.
-
-**Tech:** Next.js · React · TypeScript · Gemini
+[Repository →](https://github.com/thiteswapnil1212-hue/visionswip)
 
 ---
 
-## 🤖 AI Agents & MCP
+### GesturePilot AI
 
-Exploring AI agent development using MCP, Pydantic-AI and open-source inference.
+A hand-gesture control system that uses computer vision to translate gestures into game controls.
 
-**Focus:** AI Agents · MCP · LLMs · Tool Calling
-
----
-
-# 📊 Project Highlights
-
-| Project                 | Focus           | Technologies                   |
-| ----------------------- | --------------- | ------------------------------ |
-| 🧠 **ANVIX AI**         | AI Platform     | Next.js · TypeScript · AI APIs |
-| 👁️ **VisionSwipe AI**  | Computer Vision | Python · OpenCV · MediaPipe    |
-| 🖐️ **GesturePilot AI** | Computer Vision | Python · OpenCV · MediaPipe    |
-| 📈 **StockSense AI**    | AI Application  | Next.js · Gemini               |
-| 🤖 **AI Agents**        | AI Engineering  | MCP · Pydantic-AI · LLMs       |
+**Python · OpenCV · MediaPipe · NumPy · PyAutoGUI**
 
 ---
 
-# 🎯 Currently Learning
+### StockSense AI
 
-* 🤖 AI Engineering & LLM Applications
-* 🧠 AI Agents & MCP
-* 🔧 Tool Calling & Agent Architectures
-* 💻 Data Structures & Algorithms
-* 🔍 Binary Search & Problem Solving
-* ⚡ Next.js & TypeScript
+An AI-powered application designed to work with stock-related information and analysis.
+
+**Next.js · React · TypeScript · Gemini**
 
 ---
 
-# 🏆 Certifications
+### AI Agents & MCP
 
-### Anthropic
+Exploring AI agent development using tool calling, MCP, Pydantic-AI and open-source inference.
 
-* **AI Fluency Framework & Foundations** — 2026
-* **Claude 101** — 2026
-
-### Professional Programs
-
-* **Technology Virtual Experience Program** — Deloitte, 2026
-* **Credit Risk Virtual Experience Program** — Goldman Sachs, 2026
-* **Quantitative Research Job Simulation** — JPMorgan Chase, 2026
-
-### Data & AI
-
-* **Data Science & Analytics** — HP LIFE, 2025
-* **AI for Beginners** — HP LIFE, 2025
+**Python · MCP · Pydantic-AI · LLMs**
 
 ---
 
-# 📈 GitHub Stats
+## Areas I’m Exploring
+
+| Area                             | Focus                                           |
+| -------------------------------- | ----------------------------------------------- |
+| **AI Engineering**               | LLM applications, agents, tool calling          |
+| **AI Agents**                    | MCP, agent architectures, open-source models    |
+| **Computer Vision**              | OpenCV, MediaPipe, gesture recognition          |
+| **Data Structures & Algorithms** | Problem solving, binary search, core algorithms |
+| **Web Development**              | Next.js, TypeScript, React                      |
+
+---
+
+## Certifications
+
+**Anthropic**
+
+AI Fluency Framework & Foundations · 2026
+Claude 101 · 2026
+
+**Deloitte**
+
+Technology Virtual Experience Program · 2026
+
+**Goldman Sachs**
+
+Credit Risk Virtual Experience Program · 2026
+
+**JPMorgan Chase**
+
+Quantitative Research Job Simulation · 2026
+
+**HP LIFE**
+
+Data Science & Analytics · 2025
+AI for Beginners · 2025
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/swapnil__1212_/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/thiteswapnil1212-hue">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building • Learning • Shipping 🚀</i>
+  <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/swapnil__1212_/">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/thiteswapnil1212-hue">GitHub</a>
 </p>
