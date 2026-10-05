@@ -76,7 +76,7 @@ I'm **Swapnil Thite**, a B.E. **Artificial Intelligence & Data Science** student
 
 <td width="50%" valign="top">
 
-### 🤖 ANVIX AI
+### <img src="https://anvix-ai.vercel.app/icon-192.png" width="24" style="vertical-align:middle;border-radius:6px"> ANVIX AI
 
 Multi-model **AI coding IDE** — chat with many LLMs through one unified interface.
 
@@ -88,7 +88,7 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
 
 <td width="50%" valign="top">
 
-### 🚨 CuriousPARC 2026
+### <img src="https://skillicons.dev/icons?i=nextjs" width="24" style="vertical-align:middle"> CuriousPARC 2026
 
 **Adaptive emergency-response intelligence** — 3 AI agents + orchestrator, human-in-the-loop approval, live replanning when the situation changes.
 
@@ -103,7 +103,7 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
 
 <td width="50%" valign="top">
 
-### 🏗️ Nirman Drushti
+### <img src="https://skillicons.dev/icons?i=ts" width="24" style="vertical-align:middle"> Nirman Drushti
 
 **Explainable infrastructure-intelligence platform** (SIH) on government project data — transparent indicators, predictive risk, early warnings.
 
@@ -115,7 +115,7 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
 
 <td width="50%" valign="top">
 
-### 👋 VisionSwipe AI
+### <img src="https://skillicons.dev/icons?i=py" width="24" style="vertical-align:middle"> VisionSwipe AI
 
 **Hand-gesture control system** — MediaPipe + OpenCV with a state-machine architecture for touch-free interaction.
 
@@ -130,7 +130,7 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
 
 <td width="50%" valign="top">
 
-### 🛋️ Mauli Interior
+### <img src="https://mauliinterior-stores-web.vercel.app/favicon.ico" width="24" style="vertical-align:middle;border-radius:6px"> Mauli Interior
 
 **Live business website** for a Pune furnishing studio — 3D room studio, projects showcase, SEO.
 
@@ -142,7 +142,7 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
 
 <td width="50%" valign="top">
 
-### 📊 SkillGrid
+### <img src="https://skillicons.dev/icons?i=supabase" width="24" style="vertical-align:middle"> SkillGrid
 
 **Student productivity platform** — academics, DSA tracker, habits, focus time and leaderboards.
 
@@ -161,11 +161,11 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| [English-learning-app](https://github.com/thiteswapnil1212-hue/English-learning-app) | English learning app for young students (ages 4–7) | [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/English-learning-app) |
-| [Stocksense-AI](https://github.com/thiteswapnil1212-hue/Stocksense-AI) | AI assistant for trading | [Code](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
-| [ai-agents-workshop](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) | AI agents built with vLLM, Pydantic AI and MCP | [Code](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) |
-| [GesturePilot AI](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) | Control games with bare hands — gesture-based game controller | [Code](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
-| [AIphotoenhancer-](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) | AI photo enhancement with detailed, natural lighting | [Live](https://a-iphotoenhancer.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) |
+| <img src="https://skillicons.dev/icons?i=js" width="18" style="vertical-align:middle"> [English-learning-app](https://github.com/thiteswapnil1212-hue/English-learning-app) | English learning app for young students (ages 4–7) | [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/English-learning-app) |
+| <img src="https://skillicons.dev/icons?i=ts" width="18" style="vertical-align:middle"> [Stocksense-AI](https://github.com/thiteswapnil1212-hue/Stocksense-AI) | AI assistant for trading | [Code](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
+| <img src="https://skillicons.dev/icons?i=py" width="18" style="vertical-align:middle"> [ai-agents-workshop](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) | AI agents built with vLLM, Pydantic AI and MCP | [Code](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) |
+| <img src="https://skillicons.dev/icons?i=py" width="18" style="vertical-align:middle"> [GesturePilot AI](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) | Control games with bare hands — gesture-based game controller | [Code](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
+| <img src="https://skillicons.dev/icons?i=html" width="18" style="vertical-align:middle"> [AIphotoenhancer-](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) | AI photo enhancement with detailed, natural lighting | [Live](https://a-iphotoenhancer.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) |
 
 ---
 
@@ -183,6 +183,14 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=24292F">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3" width="340" alt="Top languages">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+  <img src="output/github-contribution-grid-snake.svg" width="850" alt="Contribution snake animation">
 </picture>
 
 </p>
