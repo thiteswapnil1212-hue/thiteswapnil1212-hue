@@ -32,72 +32,40 @@ Building **AI systems, developer tools, and infrastructure for modern AI applica
 
 ## `~/whoami`
 
-I'm **Swapnil Thite**, a B.E. student focused on **Artificial Intelligence & Data Science** and practical AI engineering.
+I'm **Swapnil Thite**, a B.E. **Artificial Intelligence & Data Science** student (DY Patil Institute of Technology, Pune · 2029) building AI systems end-to-end.
 
-I enjoy building systems where AI meets software engineering — from LLM applications and AI agents to developer-focused infrastructure.
-
-* 🚀 Currently building **AI infrastructure and an AI Gateway**
-* 🤖 Exploring **LLMs, AI Agents, MCP, tool calling and model routing**
-* 🧠 Building practical systems with **Python, TypeScript, Next.js and AI APIs**
-* 👨‍💻 Strengthening **Data Structures & Algorithms and software engineering fundamentals**
+- 🚀 Building **ANVIX AI** and **AI infrastructure** — gateway, model routing, observability
+- 🤖 Working with **LLMs, AI agents, MCP, tool calling** and structured outputs
+- 🧠 Shipping with **Python, TypeScript, Next.js** and real AI APIs
+- 👨‍💻 Sharpening **DSA and software engineering fundamentals** — 22 LeetCode problems solved and climbing
 
 ---
 
-## AI Infrastructure
-
-```text
-                    AI APPLICATION
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    AI GATEWAY   │
-                 └────────┬────────┘
-                          │
-                    MODEL ROUTING
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-           OpenAI       Gemini       Local
-              │           │           │
-              └───────────┼───────────┘
-                          ▼
-                 ┌─────────────────┐
-                 │ OBSERVABILITY   │
-                 └────────┬────────┘
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-          Latency        Cost       Reliability
-```
-
-My current engineering focus is moving beyond simply **calling AI APIs** toward understanding how AI systems can be made **reliable, observable, scalable and cost-efficient**.
-
----
-
-## Toolbox
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,typescript,javascript,react,nextjs,tailwind,nodejs,docker,postgres,git,github,vscode,vercel&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nextjs,tailwind,git,github,vercel&perline=12" />
 </p>
 
 <p align="center">
 
-`LLMs` · `AI Agents` · `MCP` · `Pydantic AI` · `Gemini` · `OpenCV` · `MediaPipe` · `REST APIs`
+`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `AI API Integration` · `OpenCV` · `MediaPipe`
+
+</p>
+
+<p align="center">
+
+🌱 Currently learning: `Java` · `DSA` · `OOP` · `SQL` · `Spring Boot` · `PostgreSQL`
 
 </p>
 
 ---
 
-## What I'm Building & Learning
+## Connect With Me
 
-| Area                  | Focus                                                 |
-| --------------------- | ----------------------------------------------------- |
-| **AI Infrastructure** | AI Gateway, model routing, observability, reliability |
-| **LLM Engineering**   | LLM applications, APIs, structured outputs            |
-| **AI Agents**         | MCP, tool calling, agent architectures                |
-| **Computer Vision**   | OpenCV, MediaPipe, gesture recognition                |
-| **Web Engineering**   | Next.js, React, TypeScript                            |
-| **DSA**               | Algorithms, problem solving, core CS fundamentals     |
+- 💼 **LinkedIn** — [linkedin.com/in/swapnil-thite-108098385](https://www.linkedin.com/in/swapnil-thite-108098385/)
+- 🧩 **LeetCode** — [leetcode.com/u/swapnil__1212_](https://leetcode.com/u/swapnil__1212_/) · 22 problems solved and climbing
+- 💻 **GitHub** — [github.com/thiteswapnil1212-hue](https://github.com/thiteswapnil1212-hue)
 
 ---
 
@@ -108,55 +76,79 @@ My current engineering focus is moving beyond simply **calling AI APIs** toward 
 
 <td width="50%" valign="top">
 
-### ⚡ AI Infrastructure
+### 🤖 ANVIX AI
 
-**Developer-focused AI infrastructure for connecting applications with multiple AI models through a unified gateway.**
+Multi-model **AI coding IDE** — chat with many LLMs through one unified interface.
 
-**Focus:** Gateway · Routing · Observability · Cost · Reliability
+`Next.js` `TypeScript` `Tailwind` `AI APIs`
 
-`Python` `TypeScript` `Next.js` `LLMs`
+[Live Demo →](https://anvix-ai.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 ANVIX AI
+### 🚨 CuriousPARC 2026
 
-**A multi-model AI application bringing different AI models into a unified interface with flexible model integration.**
+**Adaptive emergency-response intelligence** — 3 AI agents + orchestrator, human-in-the-loop approval, live replanning when the situation changes.
 
-`Next.js` `React` `TypeScript` `Tailwind` `AI APIs`
+`Next.js` `TypeScript` `Gemini`
 
-<a href="https://github.com/thiteswapnil1212-hue/ANVIX-AI">Repository →</a>
+[Live Demo →](https://cupriouspark.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/cupric2026)
 
 </td>
 
 </tr>
-
 <tr>
+
+<td width="50%" valign="top">
+
+### 🏗️ Nirman Drushti
+
+**Explainable infrastructure-intelligence platform** (SIH) on government project data — transparent indicators, predictive risk, early warnings.
+
+`Next.js` `FastAPI` `PostgreSQL`
+
+[Live Demo →](https://frontend-pearl-delta-28.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/nirman-drushti)
+
+</td>
 
 <td width="50%" valign="top">
 
 ### 👋 VisionSwipe AI
 
-**A computer-vision interaction system that uses hand gestures to control Instagram Reels.**
+**Hand-gesture control system** — MediaPipe + OpenCV with a state-machine architecture for touch-free interaction.
 
-Includes gesture recognition, stability filtering and gesture-based actions.
+`Python` `OpenCV` `MediaPipe`
 
-`Python` `OpenCV` `MediaPipe` `NumPy` `PyAutoGUI`
+[Repository →](https://github.com/thiteswapnil1212-hue/visionswip)
 
-<a href="https://github.com/thiteswapnil1212-hue/visionswip">Repository →</a>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛋️ Mauli Interior
+
+**Live business website** for a Pune furnishing studio — 3D room studio, projects showcase, SEO.
+
+`Next.js` `TypeScript` `Tailwind`
+
+[Live Demo →](https://mauliinterior-stores-web.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏆 SIH Project
+### 📊 SkillGrid
 
-**A problem-focused engineering project developed around the Smart India Hackathon ecosystem.**
+**Student productivity platform** — academics, DSA tracker, habits, focus time and leaderboards.
 
-Focused on turning a real-world problem statement into a practical software solution.
+`Next.js` `TypeScript` `Supabase`
 
-`AI` `Web` `Data` `System Design`
+[Repository →](https://github.com/thiteswapnil1212-hue/skillGrid)
 
 </td>
 
@@ -165,37 +157,15 @@ Focused on turning a real-world problem statement into a practical software solu
 
 ---
 
-## Skill Radar
+## More Projects
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### Self Assessment
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="Swapnil's self-rated skill radar">
-</picture>
-
-</td>
-
-<td width="50%" align="center">
-
-### GitHub Reality
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="Swapnil's GitHub language radar">
-</picture>
-
-</td>
-
-</tr>
-</table>
+| Project | What it is | Links |
+| --- | --- | --- |
+| [English-learning-app](https://github.com/thiteswapnil1212-hue/English-learning-app) | English learning app for young students (ages 4–7) | [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/English-learning-app) |
+| [Stocksense-AI](https://github.com/thiteswapnil1212-hue/Stocksense-AI) | AI assistant for trading | [Code](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
+| [ai-agents-workshop](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) | AI agents built with vLLM, Pydantic AI and MCP | [Code](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) |
+| [GesturePilot AI](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) | Control games with bare hands — gesture-based game controller | [Code](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
+| [AIphotoenhancer-](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) | AI photo enhancement with detailed, natural lighting | [Live](https://a-iphotoenhancer.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) |
 
 ---
 
@@ -204,19 +174,15 @@ Focused on turning a real-world problem statement into a practical software solu
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="700" alt="GitHub statistics">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=E6EDF3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=E6EDF3" width="480" alt="GitHub statistics">
 </picture>
 
-</p>
-
-<p align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
-  <img src="assets/metrics-dark.svg" width="850" alt="GitHub contribution activity">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3" width="340" alt="Top languages">
 </picture>
 
 </p>
@@ -225,45 +191,13 @@ Focused on turning a real-world problem statement into a practical software solu
 
 ## Certifications
 
-**Anthropic**
-
-AI Fluency Framework & Foundations · 2026
-Claude 101 · 2026
-
-**Deloitte**
-
-Technology Virtual Experience Program · 2026
-
-**Goldman Sachs**
-
-Credit Risk Virtual Experience Program · 2026
-
-**JPMorgan Chase**
-
-Quantitative Research Job Simulation · 2026
-
-**HP LIFE**
-
-Data Science & Analytics · 2025
-AI for Beginners · 2025
-
----
-
-## Currently Exploring
-
-```text
-AI Engineering
-     │
-     ├── LLM Applications
-     ├── AI Agents
-     ├── MCP
-     ├── Tool Calling
-     ├── Model Routing
-     ├── AI Observability
-     └── AI Infrastructure
-```
-
-My goal is to understand AI not only as a model, but as a **complete software system** — from the request entering the gateway to model selection, execution, monitoring, cost and reliability.
+| Issuer | Credential |
+| --- | --- |
+| **Anthropic** | AI Fluency: Framework & Foundations · Claude 101 (2026) |
+| **Deloitte** | Technology Virtual Experience Program (2026) |
+| **Goldman Sachs** | Credit Risk Virtual Experience Program (2026) |
+| **JPMorgan Chase** | Quantitative Research Job Simulation (2026) |
+| **HP LIFE** | Data Science & Analytics · AI for Beginners (2025) |
 
 ---
 
@@ -271,11 +205,7 @@ My goal is to understand AI not only as a model, but as a **complete software sy
 
 ### Let's build something useful.
 
-<a href="https://www.linkedin.com/in/swapnil-thite-108098385/">LinkedIn</a>
-  ·   <a href="https://leetcode.com/u/swapnil__1212_/">LeetCode</a>
-  ·   <a href="https://github.com/thiteswapnil1212-hue">GitHub</a>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Built_with-☕_and_AI-F97316?style=flat-square" />
 
