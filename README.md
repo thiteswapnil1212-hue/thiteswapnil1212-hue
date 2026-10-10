@@ -44,9 +44,18 @@
 - Designed, built and shipped the production website — Next.js, Three.js 3D room studio, SEO, products & projects showcase
 - Real users, real business — not a tutorial project
 
-**Hackathon Builder — CuriousPARC 2026 · Smart India Hackathon**
-- CuriousPARC: 3-agent emergency-response AI with human-in-the-loop approval and live replanning
-- SIH: Nirman Drushti — infrastructure-intelligence platform on government project data
+**Top 10 Projects** — ranked by scope and impact
+
+1. **ANVIX AI** — multi-model AI coding IDE (Next.js, TypeScript, PostgreSQL) · 276 commits · [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
+2. **Mauli Interior Website** — production furnishing-studio site (Next.js, Three.js) · [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+3. **CuriousPARC 2026** — agentic emergency-response AI, CuriousPARC hackathon (Next.js, Gemini) · [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026)
+4. **Nirman Drushti** — infrastructure-intelligence on govt project data, Smart India Hackathon (Next.js, FastAPI, PostgreSQL) · [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
+5. **VisionSwipe AI** — hand-gesture control system (Python, MediaPipe, OpenCV) · [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
+6. **SkillGrid** — student productivity platform (Next.js, Supabase) · [Repo](https://github.com/thiteswapnil1212-hue/skillGrid)
+7. **Stocksense-AI** — AI trading assistant (Next.js, OpenAI, Recharts) · [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI)
+8. **AI Agents Workshop** — hands-on agent experiments (Python, MCP, vLLM) · [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop)
+9. **English Learning App** — English app for ages 4–7 (JavaScript) · [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app)
+10. **GesturePilot AI** — control games with bare hands (Python) · [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller)
 
 ### Education
 
