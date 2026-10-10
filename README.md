@@ -202,9 +202,9 @@ AI photo enhancement with detailed, natural lighting.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img src="output/github-contribution-grid-snake.svg" width="850" alt="Contribution snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake.svg" width="100%" />
 </picture>
 
 <br/>
