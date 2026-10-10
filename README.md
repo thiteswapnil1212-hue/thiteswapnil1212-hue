@@ -16,10 +16,43 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Open%20to-SWE%20Internships-7C3AED?style=for-the-badge&logoColor=white" alt="Open to internships" />
+<img src="https://img.shields.io/badge/Pune-India-0B64D4?style=for-the-badge&logoColor=white" alt="Location" />
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=thiteswapnil1212-hue&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/stars/thiteswapnil1212-hue?affiliations=OWNER&style=for-the-badge&color=0B64D4&labelColor=0d1117" alt="Stars" />
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" alt="About me" />
+</div>
+
+## About Me
+
+🎓 **B.E. Artificial Intelligence & Data Science** — DY Patil Institute of Technology, Pimpri Pune (2029) · CGPA **8.93/10**
+
+💻 I build **AI systems and full-stack applications** — from multi-agent hackathon projects to a **production website for a real business**
+
+📊 **6** live demos · **27** repositories · **22** LeetCode problems solved · **7** certifications
+
+### Experience
+
+**Web Developer — Mauli Interior, Pune** *(family furnishing business)*
+- Designed, built and shipped the production website — Next.js, Three.js 3D room studio, SEO, products & projects showcase
+- Real users, real business — not a tutorial project
+
+**Hackathon Builder — CuriousPARC 2026 · Smart India Hackathon**
+- CuriousPARC: 3-agent emergency-response AI with human-in-the-loop approval and live replanning
+- SIH: Nirman Drushti — infrastructure-intelligence platform on government project data
+
+### Education
+
+**DY Patil Institute of Technology, Pimpri, Pune** — B.E. AI & Data Science, 2025–2029
 
 ---
 
