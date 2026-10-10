@@ -237,7 +237,11 @@ AI photo enhancement with detailed, natural lighting.
 
 <br/>
 
-<img src="assets/contrib-3d.svg" width="100%" alt="3D contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
 
 </div>
 
