@@ -34,11 +34,9 @@
 
 ## About Me
 
-🎓 **B.E. Artificial Intelligence & Data Science** — DY Patil Institute of Technology, Pimpri Pune (2029) · CGPA **8.93/10**
-
-💻 I build **AI systems and full-stack applications** — from multi-agent hackathon projects to a **production website for a real business**
-
-📊 **6** live demos · **27** repositories · **22** LeetCode problems solved · **7** certifications
+<div align="center">
+  <img src="assets/about-animated.svg" width="800" alt="About Swapnil Thite — animated terminal" />
+</div>
 
 ### Experience
 
