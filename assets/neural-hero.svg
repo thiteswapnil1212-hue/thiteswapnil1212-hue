@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect width="1200" height="420" rx="14" fill="#0d1117"/>
+<defs><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#30363d" opacity="0.5"/></pattern></defs>
+<rect width="1200" height="420" rx="14" fill="url(#dots)" opacity="0.55"/>
+<rect x="0" y="28" width="5" height="120" rx="2.5" fill="#F97316"/>
+<path id="e0" d="M140,130 L320,90" stroke="#F97316" stroke-width="1.6" opacity="0.55" fill="none"/>
+<path id="e1" d="M140,130 L320,160" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e2" d="M140,210 L320,160" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e3" d="M140,210 L320,230" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e4" d="M140,210 L320,300" stroke="#F97316" stroke-width="1.6" opacity="0.55" fill="none"/>
+<path id="e5" d="M140,290 L320,230" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e6" d="M140,290 L320,300" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e7" d="M320,90 L500,130" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e8" d="M320,160 L500,130" stroke="#F97316" stroke-width="1.6" opacity="0.55" fill="none"/>
+<path id="e9" d="M320,160 L500,210" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e10" d="M320,230 L500,210" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e11" d="M320,230 L500,290" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e12" d="M320,300 L500,210" stroke="#F97316" stroke-width="1.6" opacity="0.55" fill="none"/>
+<path id="e13" d="M320,300 L500,290" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<path id="e14" d="M320,90 L500,290" stroke="#30363d" stroke-width="1.6" opacity="0.9" fill="none"/>
+<circle r="4.5" fill="#F97316"><animateMotion dur="3.2s" begin="0s" repeatCount="indefinite"><mpath href="#e0"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="4.1s" begin="-1.2s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="2.8s" begin="-0.6s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="3.7s" begin="-2.1s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="4.5s" begin="-0.3s" repeatCount="indefinite"><mpath href="#e8"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="3.0s" begin="-1.7s" repeatCount="indefinite"><mpath href="#e10"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="3.9s" begin="-0.9s" repeatCount="indefinite"><mpath href="#e12"/></animateMotion></circle>
+<circle r="4.5" fill="#F97316"><animateMotion dur="4.3s" begin="-2.6s" repeatCount="indefinite"><mpath href="#e14"/></animateMotion></circle>
+<circle cx="140" cy="130" r="11" fill="#161b22" stroke="#F97316" stroke-width="2.5"/>
+<circle cx="140" cy="130" r="3.5" fill="#F97316"/>
+<circle cx="140" cy="130" r="11" fill="none" stroke="#F97316" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="11;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="118" y="135" font-size="13" fill="#f0f6fc" text-anchor="end" font-weight="bold">LLMs</text>
+<circle cx="140" cy="210" r="11" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+<circle cx="140" cy="210" r="3.5" fill="#58a6ff"/>
+<circle cx="140" cy="290" r="11" fill="#161b22" stroke="#F97316" stroke-width="2.5"/>
+<circle cx="140" cy="290" r="3.5" fill="#F97316"/>
+<circle cx="140" cy="290" r="11" fill="none" stroke="#F97316" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="11;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="118" y="295" font-size="13" fill="#f0f6fc" text-anchor="end" font-weight="bold">MCP</text>
+<circle cx="320" cy="90" r="11" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+<circle cx="320" cy="90" r="3.5" fill="#58a6ff"/>
+<circle cx="320" cy="160" r="11" fill="#161b22" stroke="#F97316" stroke-width="2.5"/>
+<circle cx="320" cy="160" r="3.5" fill="#F97316"/>
+<circle cx="320" cy="160" r="11" fill="none" stroke="#F97316" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="11;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="320" y="136" font-size="13" fill="#f0f6fc" text-anchor="middle" font-weight="bold">AI Agents</text>
+<circle cx="320" cy="230" r="11" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+<circle cx="320" cy="230" r="3.5" fill="#58a6ff"/>
+<circle cx="320" cy="300" r="11" fill="#161b22" stroke="#F97316" stroke-width="2.5"/>
+<circle cx="320" cy="300" r="3.5" fill="#F97316"/>
+<circle cx="320" cy="300" r="11" fill="none" stroke="#F97316" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="11;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="320" y="276" font-size="13" fill="#f0f6fc" text-anchor="middle" font-weight="bold">Routing</text>
+<circle cx="500" cy="130" r="11" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+<circle cx="500" cy="130" r="3.5" fill="#58a6ff"/>
+<circle cx="500" cy="210" r="11" fill="#161b22" stroke="#F97316" stroke-width="2.5"/>
+<circle cx="500" cy="210" r="3.5" fill="#F97316"/>
+<circle cx="500" cy="210" r="11" fill="none" stroke="#F97316" stroke-width="1.5" opacity="0.6"><animate attributeName="r" values="11;17" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="500" y="186" font-size="13" fill="#f0f6fc" text-anchor="middle" font-weight="bold">Observability</text>
+<circle cx="500" cy="290" r="11" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+<circle cx="500" cy="290" r="3.5" fill="#58a6ff"/>
+<text x="140" y="392" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="3">INPUT</text>
+<text x="320" y="392" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="3">HIDDEN</text>
+<text x="500" y="392" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="3">OUTPUT</text>
+<line x1="585" y1="50" x2="585" y2="370" stroke="#30363d" stroke-width="1.5"/>
+<text x="630" y="105" font-size="46" font-weight="bold" fill="#f0f6fc" letter-spacing="2">SWAPNIL THITE</text>
+<text x="630" y="138" font-size="15" fill="#F97316" letter-spacing="4">AI ENGINEERING · AI INFRASTRUCTURE</text>
+<text x="630" y="172" font-size="14.5" fill="#8b949e">Turning AI ideas into real systems —</text>
+<text x="630" y="194" font-size="14.5" fill="#8b949e">LLM apps, agents, and the infrastructure behind them.</text>
+<line x1="630" y1="214" x2="1150" y2="214" stroke="#30363d" stroke-width="1"/>
+<text x="630" y="246" font-size="14" fill="#8b949e">Public repositories</text>
+<text x="1150" y="246" font-size="14" font-weight="bold" fill="#f0f6fc" text-anchor="end">27</text>
+<text x="630" y="275" font-size="14" fill="#8b949e">Projects shipped</text>
+<text x="1150" y="275" font-size="14" font-weight="bold" fill="#f0f6fc" text-anchor="end">11</text>
+<text x="630" y="304" font-size="14" fill="#8b949e">Live demos</text>
+<text x="1150" y="304" font-size="14" font-weight="bold" fill="#f0f6fc" text-anchor="end">6</text>
+<text x="630" y="333" font-size="14" fill="#8b949e">LeetCode solved</text>
+<text x="1150" y="333" font-size="14" font-weight="bold" fill="#f0f6fc" text-anchor="end">22</text>
+<text x="630" y="362" font-size="14" fill="#8b949e">Certifications</text>
+<text x="1150" y="362" font-size="14" font-weight="bold" fill="#f0f6fc" text-anchor="end">7</text>
+<text x="630" y="392" font-size="13" fill="#F97316">» Currently: ANVIX AI + AI gateway work</text>
+</svg>
