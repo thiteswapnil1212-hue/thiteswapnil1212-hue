@@ -1,12 +1,8 @@
+<p align="center">
+  <img src="assets/neural-hero.svg" width="100%" alt="Swapnil Thite — AI Engineering · AI Infrastructure" />
+</p>
+
 <div align="center">
-
-# Swapnil Thite
-
-### AI & Data Science Student · AI Engineering · AI Infrastructure
-
-Building **AI systems, developer tools, and infrastructure for modern AI applications.**
-
-<br/>
 
 <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,10 +14,6 @@ Building **AI systems, developer tools, and infrastructure for modern AI applica
   <img src="https://img.shields.io/badge/GitHub-thiteswapnil1212--hue-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=700&lines=Building+AI+Infrastructure;LLMs+%7C+AI+Agents+%7C+MCP;Model+Routing+%7C+Observability+%7C+Reliability;Turning+AI+ideas+into+real+systems" alt="Typing animation" />
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=thiteswapnil1212-hue&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
@@ -32,11 +24,10 @@ Building **AI systems, developer tools, and infrastructure for modern AI applica
 
 ## `~/whoami`
 
-I'm **Swapnil Thite**, a B.E. **Artificial Intelligence & Data Science** student (DY Patil Institute of Technology, Pune · 2029) building AI systems end-to-end.
+I'm **Swapnil Thite**, a B.E. **Artificial Intelligence & Data Science** student (DY Patil Institute of Technology, Pune · 2029) building AI systems end-to-end — from LLM apps and agents to the infrastructure behind them.
 
 - 🚀 Building **ANVIX AI** and **AI infrastructure** — gateway, model routing, observability
 - 🤖 Working with **LLMs, AI agents, MCP, tool calling** and structured outputs
-- 🧠 Shipping with **Python, TypeScript, Next.js** and real AI APIs
 - 👨‍💻 Sharpening **DSA and software engineering fundamentals** — 22 LeetCode problems solved and climbing
 
 ---
@@ -69,103 +60,95 @@ I'm **Swapnil Thite**, a B.E. **Artificial Intelligence & Data Science** student
 
 ---
 
-## Featured Projects
+## Projects
 
-<table>
-<tr>
+<details>
+<summary><img src="https://anvix-ai.vercel.app/icon-192.png" width="20" style="vertical-align:middle"> <strong>ANVIX AI</strong> — multi-model AI coding IDE · <code>Next.js</code> <code>TypeScript</code></summary>
+<br>
+Chat with many LLMs through one unified interface — workspaces, dashboard, generation tools, auth and PostgreSQL persistence.
+<br><br>
+<a href="https://anvix-ai.vercel.app/">Live Demo</a> · <a href="https://github.com/thiteswapnil1212-hue/ANVIX-AI">Repository</a>
+</details>
 
-<td width="50%" valign="top">
+<details>
+<summary><img src="https://skillicons.dev/icons?i=nextjs" width="20" style="vertical-align:middle"> <strong>CuriousPARC 2026</strong> — adaptive emergency-response intelligence · <code>Next.js</code> <code>Gemini</code></summary>
+<br>
+3 AI agents + orchestrator with human-in-the-loop approval and live replanning when the situation changes. Built for the CuriousPARC 2026 hackathon.
+<br><br>
+<a href="https://cupriouspark.vercel.app/">Live Demo</a> · <a href="https://github.com/thiteswapnil1212-hue/cupric2026">Repository</a>
+</details>
 
-### <img src="https://anvix-ai.vercel.app/icon-192.png" width="24" style="vertical-align:middle;border-radius:6px"> ANVIX AI
+<details>
+<summary><img src="https://skillicons.dev/icons?i=ts" width="20" style="vertical-align:middle"> <strong>Nirman Drushti</strong> — explainable infrastructure-intelligence platform · <code>Next.js</code> <code>FastAPI</code></summary>
+<br>
+Turns government project-monitoring data (PAIMANA/MoSPI) into transparent indicators, predictive risk and early warnings. Built for Smart India Hackathon.
+<br><br>
+<a href="https://frontend-pearl-delta-28.vercel.app/">Live Demo</a> · <a href="https://github.com/thiteswapnil1212-hue/nirman-drushti">Repository</a>
+</details>
 
-Multi-model **AI coding IDE** — chat with many LLMs through one unified interface.
+<details>
+<summary><img src="https://skillicons.dev/icons?i=py" width="20" style="vertical-align:middle"> <strong>VisionSwipe AI</strong> — hand-gesture control system · <code>Python</code> <code>MediaPipe</code></summary>
+<br>
+MediaPipe + OpenCV with a state-machine architecture for touch-free interaction.
+<br><br>
+<a href="https://github.com/thiteswapnil1212-hue/visionswip">Repository</a>
+</details>
 
-`Next.js` `TypeScript` `Tailwind` `AI APIs`
+<details>
+<summary><img src="https://mauliinterior-stores-web.vercel.app/favicon.ico" width="20" style="vertical-align:middle"> <strong>Mauli Interior</strong> — live business website · <code>Next.js</code> <code>Three.js</code></summary>
+<br>
+Production site for a Pune furnishing studio — 3D room studio, products, projects showcase, SEO.
+<br><br>
+<a href="https://mauliinterior-stores-web.vercel.app/">Live Demo</a> · <a href="https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB">Repository</a>
+</details>
 
-[Live Demo →](https://anvix-ai.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
+<details>
+<summary><img src="https://skillicons.dev/icons?i=supabase" width="20" style="vertical-align:middle"> <strong>SkillGrid</strong> — student productivity platform · <code>Next.js</code> <code>Supabase</code></summary>
+<br>
+Academics, DSA tracker, habits, focus time and leaderboards for students.
+<br><br>
+<a href="https://github.com/thiteswapnil1212-hue/skillGrid">Repository</a>
+</details>
 
-</td>
+<details>
+<summary><img src="https://skillicons.dev/icons?i=js" width="20" style="vertical-align:middle"> <strong>English Learning App</strong> — English for young students · <code>JavaScript</code></summary>
+<br>
+Learning app for ages 4–7 with a friendly mascot buddy. Vanilla HTML/CSS/JS.
+<br><br>
+<a href="https://english-learning-app-eight-zeta.vercel.app/">Live Demo</a> · <a href="https://github.com/thiteswapnil1212-hue/English-learning-app">Repository</a>
+</details>
 
-<td width="50%" valign="top">
+<details>
+<summary><img src="https://skillicons.dev/icons?i=ts" width="20" style="vertical-align:middle"> <strong>Stocksense-AI</strong> — AI assistant for trading · <code>Next.js</code> <code>OpenAI</code></summary>
+<br>
+Market data via yahoo-finance2, AI insights, interactive Recharts visualizations.
+<br><br>
+<a href="https://github.com/thiteswapnil1212-hue/Stocksense-AI">Repository</a>
+</details>
 
-### <img src="https://skillicons.dev/icons?i=nextjs" width="24" style="vertical-align:middle"> CuriousPARC 2026
+<details>
+<summary><img src="https://skillicons.dev/icons?i=py" width="20" style="vertical-align:middle"> <strong>AI Agents Workshop</strong> — hands-on agent experiments · <code>Python</code> <code>MCP</code></summary>
+<br>
+Tool-augmented reasoning with vLLM, Pydantic AI and Model Context Protocol.
+<br><br>
+<a href="https://github.com/thiteswapnil1212-hue/ai-agents-workshop">Repository</a>
+</details>
 
-**Adaptive emergency-response intelligence** — 3 AI agents + orchestrator, human-in-the-loop approval, live replanning when the situation changes.
+<details>
+<summary><img src="https://skillicons.dev/icons?i=py" width="20" style="vertical-align:middle"> <strong>GesturePilot AI</strong> — control games with bare hands · <code>Python</code></summary>
+<br>
+Gesture-based game controller — no controller needed.
+<br><br>
+<a href="https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller">Repository</a>
+</details>
 
-`Next.js` `TypeScript` `Gemini`
-
-[Live Demo →](https://cupriouspark.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/cupric2026)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### <img src="https://skillicons.dev/icons?i=ts" width="24" style="vertical-align:middle"> Nirman Drushti
-
-**Explainable infrastructure-intelligence platform** (SIH) on government project data — transparent indicators, predictive risk, early warnings.
-
-`Next.js` `FastAPI` `PostgreSQL`
-
-[Live Demo →](https://frontend-pearl-delta-28.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/nirman-drushti)
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://skillicons.dev/icons?i=py" width="24" style="vertical-align:middle"> VisionSwipe AI
-
-**Hand-gesture control system** — MediaPipe + OpenCV with a state-machine architecture for touch-free interaction.
-
-`Python` `OpenCV` `MediaPipe`
-
-[Repository →](https://github.com/thiteswapnil1212-hue/visionswip)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### <img src="https://mauliinterior-stores-web.vercel.app/favicon.ico" width="24" style="vertical-align:middle;border-radius:6px"> Mauli Interior
-
-**Live business website** for a Pune furnishing studio — 3D room studio, projects showcase, SEO.
-
-`Next.js` `TypeScript` `Tailwind`
-
-[Live Demo →](https://mauliinterior-stores-web.vercel.app/) · [Repository →](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://skillicons.dev/icons?i=supabase" width="24" style="vertical-align:middle"> SkillGrid
-
-**Student productivity platform** — academics, DSA tracker, habits, focus time and leaderboards.
-
-`Next.js` `TypeScript` `Supabase`
-
-[Repository →](https://github.com/thiteswapnil1212-hue/skillGrid)
-
-</td>
-
-</tr>
-</table>
-
----
-
-## More Projects
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| <img src="https://skillicons.dev/icons?i=js" width="18" style="vertical-align:middle"> [English-learning-app](https://github.com/thiteswapnil1212-hue/English-learning-app) | English learning app for young students (ages 4–7) | [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/English-learning-app) |
-| <img src="https://skillicons.dev/icons?i=ts" width="18" style="vertical-align:middle"> [Stocksense-AI](https://github.com/thiteswapnil1212-hue/Stocksense-AI) | AI assistant for trading | [Code](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
-| <img src="https://skillicons.dev/icons?i=py" width="18" style="vertical-align:middle"> [ai-agents-workshop](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) | AI agents built with vLLM, Pydantic AI and MCP | [Code](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) |
-| <img src="https://skillicons.dev/icons?i=py" width="18" style="vertical-align:middle"> [GesturePilot AI](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) | Control games with bare hands — gesture-based game controller | [Code](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
-| <img src="https://skillicons.dev/icons?i=html" width="18" style="vertical-align:middle"> [AIphotoenhancer-](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) | AI photo enhancement with detailed, natural lighting | [Live](https://a-iphotoenhancer.vercel.app/) · [Code](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) |
+<details>
+<summary><img src="https://skillicons.dev/icons?i=html" width="20" style="vertical-align:middle"> <strong>AI Photo Enhancer</strong> — photo enhancement web app · <code>HTML</code> <code>CSS</code></summary>
+<br>
+AI photo enhancement with detailed, natural lighting.
+<br><br>
+<a href="https://a-iphotoenhancer.vercel.app/">Live Demo</a> · <a href="https://github.com/thiteswapnil1212-hue/AIphotoenhancer-">Repository</a>
+</details>
 
 ---
 
@@ -183,14 +166,6 @@ Multi-model **AI coding IDE** — chat with many LLMs through one unified interf
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=24292F">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3" width="340" alt="Top languages">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
-  <img src="output/github-contribution-grid-snake.svg" width="850" alt="Contribution snake animation">
 </picture>
 
 </p>
