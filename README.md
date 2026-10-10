@@ -46,16 +46,35 @@
 
 **Top 10 Projects** — ranked by scope and impact
 
-1. **ANVIX AI** — multi-model AI coding IDE (Next.js, TypeScript, PostgreSQL) · 276 commits · [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
-2. **Mauli Interior Website** — production furnishing-studio site (Next.js, Three.js) · [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
-3. **CuriousPARC 2026** — agentic emergency-response AI, CuriousPARC hackathon (Next.js, Gemini) · [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026)
-4. **Nirman Drushti** — infrastructure-intelligence on govt project data, Smart India Hackathon (Next.js, FastAPI, PostgreSQL) · [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
-5. **VisionSwipe AI** — hand-gesture control system (Python, MediaPipe, OpenCV) · [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
-6. **SkillGrid** — student productivity platform (Next.js, Supabase) · [Repo](https://github.com/thiteswapnil1212-hue/skillGrid)
-7. **Stocksense-AI** — AI trading assistant (Next.js, OpenAI, Recharts) · [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI)
-8. **AI Agents Workshop** — hands-on agent experiments (Python, MCP, vLLM) · [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop)
-9. **English Learning App** — English app for ages 4–7 (JavaScript) · [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app)
-10. **GesturePilot AI** — control games with bare hands (Python) · [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller)
+1. **ANVIX AI** · [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
+   A multi-model AI coding IDE — chat with many LLMs through one unified interface. Workspaces, dashboard, code-generation tools, authentication, and PostgreSQL persistence, built over 276 commits.
+
+2. **Mauli Interior Website** · [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+   Production website for a real Pune furnishing business — Next.js with a Three.js 3D room studio, products and projects showcases, and full SEO. Serves real customers, not a demo.
+
+3. **CuriousPARC 2026** · [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026)
+   Adaptive emergency-response intelligence system built for the CuriousPARC 2026 hackathon — three AI agents (risk assessment, resource & routing, response planning) coordinated by an orchestrator, with human-in-the-loop approval and live replanning when conditions change.
+
+4. **Nirman Drushti** · [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
+   Explainable infrastructure-intelligence platform built for Smart India Hackathon — turns government project-monitoring data (PAIMANA/MoSPI) into transparent indicators, predictive risk scores, and early warnings. Next.js frontend with a FastAPI + PostgreSQL backend.
+
+5. **VisionSwipe AI** · [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
+   Touch-free hand-gesture control system built with Python, MediaPipe, and OpenCV — a state-machine architecture translates hand movements into on-screen actions.
+
+6. **SkillGrid** · [Repo](https://github.com/thiteswapnil1212-hue/skillGrid)
+   Student productivity platform — tracks academics, DSA progress, habits, and focus time, with leaderboards to keep students accountable. Built with Next.js and Supabase.
+
+7. **Stocksense-AI** · [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI)
+   AI assistant for trading — pulls market data via yahoo-finance2, generates AI insights with OpenAI, and visualizes everything through interactive Recharts dashboards.
+
+8. **AI Agents Workshop** · [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop)
+   Hands-on experiments in tool-augmented AI reasoning — built with vLLM, Pydantic AI, and the Model Context Protocol (MCP).
+
+9. **English Learning App** · [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app)
+   English-learning web app for young students (ages 4–7), with a friendly mascot buddy guiding every lesson. Built with vanilla HTML, CSS, and JavaScript.
+
+10. **GesturePilot AI** · [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller)
+    Control games with bare hands — a Python-based gesture controller that maps hand movements to game inputs, no controller needed.
 
 ### Education
 
