@@ -1,42 +1,37 @@
-<p align="center">
-  <img src="assets/neural-hero.svg" width="100%" alt="Swapnil Thite — AI Engineering · AI Infrastructure" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B64D4&height=200&section=header&text=Swapnil%20Thite&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20Engineering%20%7C%20AI%20Infrastructure&descSize=17" width="100%" alt="Swapnil Thite" />
+</div>
 
 <div align="center">
 
+<a href="https://github.com/thiteswapnil1212-hue">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/swapnil__1212_/">
-  <img src="https://img.shields.io/badge/LeetCode-Swapnil-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://github.com/thiteswapnil1212-hue">
-  <img src="https://img.shields.io/badge/GitHub-thiteswapnil1212--hue-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thiteswapnil1212-hue&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=thiteswapnil1212-hue&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/thiteswapnil1212-hue?affiliations=OWNER&style=for-the-badge&color=0B64D4&labelColor=0d1117" alt="Stars" />
 
 </div>
 
 ---
 
-## `~/whoami`
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGeuPlJhBB63t9h1/giphy.gif" width="60" alt="Skills" />
+</div>
 
-I'm **Swapnil Thite**, a B.E. **Artificial Intelligence & Data Science** student (DY Patil Institute of Technology, Pune · 2029) building AI systems end-to-end — from LLM apps and agents to the infrastructure behind them.
+## Skills & Tools
 
-- 🚀 Building **ANVIX AI** and **AI infrastructure** — gateway, model routing, observability
-- 🤖 Working with **LLMs, AI agents, MCP, tool calling** and structured outputs
-- 👨‍💻 Sharpening **DSA and software engineering fundamentals** — 22 LeetCode problems solved and climbing
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nextjs,tailwind,git,github,vercel&perline=12" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,ts,react,nextjs,tailwind,git,github,vercel&perline=9" alt="Tech stack" />
+</div>
 
 <p align="center">
 
@@ -152,23 +147,40 @@ AI photo enhancement with detailed, natural lighting.
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/jSKBmMbBbmfo2DPQIt/giphy.gif" width="60" alt="Contributions" />
+</div>
+
+## Contributions
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="Repos per language" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=thiteswapnil1212-hue&theme=tokyonight&hide_border=true&card_width=495&card_height=180" width="60%" alt="Contribution streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="60" alt="Activity" />
+</div>
+
 ## GitHub Activity
 
-<p align="center">
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=E6EDF3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=24292F">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiteswapnil1212-hue&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=E6EDF3" width="480" alt="GitHub statistics">
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+  <img src="output/github-contribution-grid-snake.svg" width="850" alt="Contribution snake animation">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=24292F">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiteswapnil1212-hue&layout=compact&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E6EDF3" width="340" alt="Top languages">
-</picture>
+<br/>
 
-</p>
+<img src="assets/contrib-3d.svg" width="100%" alt="3D contribution graph" />
+
+</div>
 
 ---
 
@@ -186,10 +198,8 @@ AI photo enhancement with detailed, natural lighting.
 
 <div align="center">
 
-### Let's build something useful.
+*Thanks for visiting — let's build something useful together.*
 
-<br/>
-
-<img src="https://img.shields.io/badge/Built_with-☕_and_AI-F97316?style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7BD4,100:0B64D4&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
 
 </div>
