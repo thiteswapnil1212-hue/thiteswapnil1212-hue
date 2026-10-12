@@ -106,14 +106,6 @@
 
 ---
 
-## Connect With Me
-
-- 💼 **LinkedIn** — [linkedin.com/in/swapnil-thite-108098385](https://www.linkedin.com/in/swapnil-thite-108098385/)
-- 🧩 **LeetCode** — [leetcode.com/u/swapnil__1212_](https://leetcode.com/u/swapnil__1212_/) · 22 problems solved and climbing
-- 💻 **GitHub** — [github.com/thiteswapnil1212-hue](https://github.com/thiteswapnil1212-hue)
-
----
-
 ## Projects
 
 ### Mauli Interior Website — Web Developer *(family furnishing business, Pune)*
@@ -179,13 +171,9 @@
 
 ## Certifications
 
-| Issuer | Credential |
-| --- | --- |
-| **Anthropic** | AI Fluency: Framework & Foundations · Claude 101 (2026) |
-| **Deloitte** | Technology Virtual Experience Program (2026) |
-| **Goldman Sachs** | Credit Risk Virtual Experience Program (2026) |
-| **JPMorgan Chase** | Quantitative Research Job Simulation (2026) |
-| **HP LIFE** | Data Science & Analytics · AI for Beginners (2025) |
+<div align="center">
+  <img src="assets/certifications.svg" width="1000" alt="Certifications" />
+</div>
 
 ---
 
