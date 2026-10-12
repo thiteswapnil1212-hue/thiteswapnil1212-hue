@@ -116,19 +116,15 @@
 
 ## Projects
 
-| # | Project | Description | Stack | Links |
-|---|---------|-------------|-------|-------|
-| 1 | **ANVIX AI** | Multi-model AI coding IDE — chat with many LLMs through one unified interface, with workspaces, auth, and PostgreSQL persistence. Built over 276 commits. | Next.js · TypeScript | [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) |
-| 2 | **CuriousPARC 2026** | Adaptive emergency-response intelligence system — three AI agents coordinated by an orchestrator, with human-in-the-loop approval and live replanning. CuriousPARC 2026 hackathon. | Next.js · Gemini | [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) |
-| 3 | **Nirman Drushti** | Explainable infrastructure-intelligence platform turning government project-monitoring data (PAIMANA/MoSPI) into risk indicators and early warnings. Smart India Hackathon. | Next.js · FastAPI · PostgreSQL | [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) |
-| 4 | **VisionSwipe AI** | Touch-free hand-gesture control system — a state-machine architecture translates hand movements into on-screen actions. | Python · MediaPipe · OpenCV | [Repo](https://github.com/thiteswapnil1212-hue/visionswip) |
-| 5 | **Mauli Interior** | Production website for a real Pune furnishing business — Three.js 3D room studio, products and projects showcases, full SEO. | Next.js · Three.js | [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) |
-| 6 | **SkillGrid** | Student productivity platform — academics, DSA tracker, habits, and focus time, with leaderboards to keep students accountable. | Next.js · Supabase | [Repo](https://github.com/thiteswapnil1212-hue/skillGrid) |
-| 7 | **English Learning App** | English-learning web app for ages 4–7, with a friendly mascot buddy guiding every lesson. | JavaScript | [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) |
-| 8 | **Stocksense-AI** | AI assistant for trading — market data via yahoo-finance2, AI insights with OpenAI, interactive Recharts dashboards. | Next.js · OpenAI | [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
-| 9 | **AI Agents Workshop** | Hands-on experiments in tool-augmented AI reasoning. | Python · MCP · vLLM | [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) |
-| 10 | **GesturePilot AI** | Control games with bare hands — maps hand movements to game inputs, no controller needed. | Python | [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
-| 11 | **AI Photo Enhancer** | Photo enhancement web app with detailed, natural lighting. | HTML · CSS | [Live](https://a-iphotoenhancer.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) |
+<div align="center">
+  <img src="assets/projects-table.svg" width="1000" alt="Projects table" />
+</div>
+
+<p align="center">
+<sub>
+**ANVIX AI** [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) &nbsp;|&nbsp; **CuriousPARC 2026** [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) &nbsp;|&nbsp; **Nirman Drushti** [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) &nbsp;|&nbsp; **VisionSwipe AI** [Repo](https://github.com/thiteswapnil1212-hue/visionswip) &nbsp;|&nbsp; **Mauli Interior** [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) &nbsp;|&nbsp; **SkillGrid** [Repo](https://github.com/thiteswapnil1212-hue/skillGrid) &nbsp;|&nbsp; **English Learning App** [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) &nbsp;|&nbsp; **Stocksense-AI** [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) &nbsp;|&nbsp; **AI Agents Workshop** [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) &nbsp;|&nbsp; **GesturePilot AI** [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) &nbsp;|&nbsp; **AI Photo Enhancer** [Live](https://a-iphotoenhancer.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-)
+</sub>
+</p>
 
 ---
 
