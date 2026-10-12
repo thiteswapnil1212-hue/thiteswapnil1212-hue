@@ -116,6 +116,14 @@
 
 ## Projects
 
+### Mauli Interior Website — Web Developer *(family furnishing business, Pune)*
+
+- Designed, built, and shipped the production website end-to-end for Mauli Interior, a real furnishing business in Pune.
+- Interactive 3D room studio (Three.js) where customers visualize rooms, plus products and projects showcases built with Next.js.
+- Full on-page SEO, WhatsApp enquiry deep-links, and performance tuning for real customer traffic.
+- A live business asset — real users, real visibility, not a tutorial project.
+- [Live Site](https://mauliinterior-stores-web.vercel.app/) · [Repository](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+
 <div align="center">
   <img src="assets/projects-table.svg" width="1000" alt="Projects table" />
 </div>
