@@ -1,186 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B64D4&height=200&section=header&text=Swapnil%20Thite&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20Engineering%20%7C%20AI%20Infrastructure&descSize=17" width="100%" alt="Swapnil Thite" />
-</div>
 
-<div align="center">
+# Swapnil Thite
 
-<a href="https://github.com/thiteswapnil1212-hue">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**AI Engineering · AI Infrastructure**
+
+B.E. Artificial Intelligence & Data Science — DY Patil Institute of Technology, Pimpri, Pune (2029) · CGPA 8.93/10
+
 <a href="https://www.linkedin.com/in/swapnil-thite-108098385/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/swapnil__1212_/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Open%20to-SWE%20Internships-7C3AED?style=for-the-badge&logoColor=white" alt="Open to internships" />
-<img src="https://img.shields.io/badge/Pune-India-0B64D4?style=for-the-badge&logoColor=white" alt="Location" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=thiteswapnil1212-hue&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/stars/thiteswapnil1212-hue?affiliations=OWNER&style=for-the-badge&color=0B64D4&labelColor=0d1117" alt="Stars" />
+<a href="https://github.com/thiteswapnil1212-hue">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Open_to-SWE_Internships-7C3AED?style=flat-square" alt="Open to SWE internships" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" alt="About me" />
-</div>
+## About
 
-## About Me
+I build **AI systems and full-stack applications** — from multi-agent hackathon projects to production software for real businesses. My work centers on LLM-powered tools and AI infrastructure, and I care about shipping things people actually use.
 
-<div align="center">
-  <img src="assets/about-animated.svg" width="800" alt="About Swapnil Thite — animated terminal" />
-</div>
-
-### Experience
-
-**Web Developer — Mauli Interior, Pune** *(family furnishing business)*
-- Designed, built and shipped the production website — Next.js, Three.js 3D room studio, SEO, products & projects showcase
-- Real users, real business — not a tutorial project
-
-**Top 10 Projects** — ranked by scope and impact
-
-1. **ANVIX AI** · [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
-   A multi-model AI coding IDE — chat with many LLMs through one unified interface. Workspaces, dashboard, code-generation tools, authentication, and PostgreSQL persistence, built over 276 commits.
-
-2. **Mauli Interior Website** · [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
-   Production website for a real Pune furnishing business — Next.js with a Three.js 3D room studio, products and projects showcases, and full SEO. Serves real customers, not a demo.
-
-3. **CuriousPARC 2026** · [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026)
-   Adaptive emergency-response intelligence system built for the CuriousPARC 2026 hackathon — three AI agents (risk assessment, resource & routing, response planning) coordinated by an orchestrator, with human-in-the-loop approval and live replanning when conditions change.
-
-4. **Nirman Drushti** · [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
-   Explainable infrastructure-intelligence platform built for Smart India Hackathon — turns government project-monitoring data (PAIMANA/MoSPI) into transparent indicators, predictive risk scores, and early warnings. Next.js frontend with a FastAPI + PostgreSQL backend.
-
-5. **VisionSwipe AI** · [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
-   Touch-free hand-gesture control system built with Python, MediaPipe, and OpenCV — a state-machine architecture translates hand movements into on-screen actions.
-
-6. **SkillGrid** · [Repo](https://github.com/thiteswapnil1212-hue/skillGrid)
-   Student productivity platform — tracks academics, DSA progress, habits, and focus time, with leaderboards to keep students accountable. Built with Next.js and Supabase.
-
-7. **Stocksense-AI** · [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI)
-   AI assistant for trading — pulls market data via yahoo-finance2, generates AI insights with OpenAI, and visualizes everything through interactive Recharts dashboards.
-
-8. **AI Agents Workshop** · [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop)
-   Hands-on experiments in tool-augmented AI reasoning — built with vLLM, Pydantic AI, and the Model Context Protocol (MCP).
-
-9. **English Learning App** · [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app)
-   English-learning web app for young students (ages 4–7), with a friendly mascot buddy guiding every lesson. Built with vanilla HTML, CSS, and JavaScript.
-
-10. **GesturePilot AI** · [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller)
-    Control games with bare hands — a Python-based gesture controller that maps hand movements to game inputs, no controller needed.
-
-### Education
-
-**DY Patil Institute of Technology, Pimpri, Pune** — B.E. AI & Data Science, 2025–2029
+- **Education** — B.E. AI & Data Science, DY Patil Institute of Technology, Pimpri, Pune (2025–2029)
+- **Currently** — Web Developer at Mauli Interior; building with AI agents and Next.js
+- **Open to** — Software Engineering internships (Pune / remote)
 
 ---
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/QssGeuPlJhBB63t9h1/giphy.gif" width="60" alt="Skills" />
-</div>
+## Experience
 
-## Skills & Tools
+### Web Developer — Mauli Interior, Pune *(family furnishing business)*
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,ts,react,nextjs,tailwind,git,github,vercel&perline=9" alt="Tech stack" />
-</div>
-
-<p align="center">
-
-`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `AI API Integration` · `OpenCV` · `MediaPipe`
-
-</p>
-
-<p align="center">
-
-🌱 Currently learning: `Java` · `DSA` · `OOP` · `SQL` · `Spring Boot` · `PostgreSQL`
-
-</p>
+- Designed, built, and shipped the production website end-to-end for a real furnishing business.
+- Interactive Three.js 3D room studio, product and project showcases, full on-page SEO, WhatsApp enquiry flows.
+- A live business asset serving real customers — not a tutorial project.
 
 ---
 
 ## Projects
 
-### Mauli Interior Website — Web Developer *(family furnishing business, Pune)*
+| # | Project | Description | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 1 | **ANVIX AI** | Multi-model AI coding IDE — unified chat across LLMs, workspaces, auth, PostgreSQL persistence. 276 commits. | Next.js · TypeScript | [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) |
+| 2 | **CuriousPARC 2026** | Agentic emergency-response AI — 3 agents + orchestrator, human-in-the-loop approval, live replanning. CuriousPARC 2026 hackathon. | Next.js · Gemini | [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) |
+| 3 | **Nirman Drushti** | Infrastructure-intelligence platform on government project data (PAIMANA/MoSPI) — risk indicators, early warnings. Smart India Hackathon. | Next.js · FastAPI · PostgreSQL | [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) |
+| 4 | **VisionSwipe AI** | Touch-free hand-gesture control system — state-machine architecture with MediaPipe + OpenCV. | Python · MediaPipe · OpenCV | [Repo](https://github.com/thiteswapnil1212-hue/visionswip) |
+| 5 | **Mauli Interior** | Production furnishing-studio website — 3D room studio, SEO, WhatsApp enquiry flows. | Next.js · Three.js | [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) |
+| 6 | **SkillGrid** | Student productivity platform — academics, DSA tracker, habits, leaderboards. | Next.js · Supabase | [Repo](https://github.com/thiteswapnil1212-hue/skillGrid) |
+| 7 | **English Learning App** | English-learning web app for ages 4–7, with a mascot buddy guiding every lesson. | JavaScript | [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) |
+| 8 | **Stocksense-AI** | AI trading assistant — market data via yahoo-finance2, OpenAI insights, Recharts dashboards. | Next.js · OpenAI | [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
+| 9 | **AI Agents Workshop** | Tool-augmented AI reasoning experiments. | Python · MCP · vLLM | [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) |
+| 10 | **GesturePilot AI** | Bare-hand game controller — maps hand movements to game inputs. | Python | [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
+| 11 | **AI Photo Enhancer** | Photo enhancement web app with natural lighting. | HTML · CSS | [Repo](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-) |
 
-- Designed, built, and shipped the production website end-to-end for Mauli Interior, a real furnishing business in Pune.
-- Interactive 3D room studio (Three.js) where customers visualize rooms, plus products and projects showcases built with Next.js.
-- Full on-page SEO, WhatsApp enquiry deep-links, and performance tuning for real customer traffic.
-- A live business asset — real users, real visibility, not a tutorial project.
-- [Live Site](https://mauliinterior-stores-web.vercel.app/) · [Repository](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+---
+
+## Technical Skills
 
 <div align="center">
-  <img src="assets/projects-table.svg" width="1000" alt="Projects table" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,ts,react,nextjs,tailwind,git,github,vercel&perline=13" alt="Tech stack" />
 </div>
 
 <p align="center">
-<sub>
-**ANVIX AI** [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) &nbsp;|&nbsp; **CuriousPARC 2026** [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) &nbsp;|&nbsp; **Nirman Drushti** [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) &nbsp;|&nbsp; **VisionSwipe AI** [Repo](https://github.com/thiteswapnil1212-hue/visionswip) &nbsp;|&nbsp; **Mauli Interior** [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) &nbsp;|&nbsp; **SkillGrid** [Repo](https://github.com/thiteswapnil1212-hue/skillGrid) &nbsp;|&nbsp; **English Learning App** [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) &nbsp;|&nbsp; **Stocksense-AI** [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) &nbsp;|&nbsp; **AI Agents Workshop** [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) &nbsp;|&nbsp; **GesturePilot AI** [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) &nbsp;|&nbsp; **AI Photo Enhancer** [Repo](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-)
-</sub>
+Currently learning: <code>Java</code> · <code>DSA</code> · <code>OOP</code> · <code>SQL</code> · <code>Spring Boot</code> · <code>PostgreSQL</code>
 </p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jSKBmMbBbmfo2DPQIt/giphy.gif" width="60" alt="Contributions" />
-</div>
-
-## Contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="Repos per language" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=thiteswapnil1212-hue&theme=tokyonight&hide_border=true&card_width=495&card_height=180" width="60%" alt="Contribution streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="60" alt="Activity" />
-</div>
-
-## GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake.svg" width="100%" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
-
-</div>
 
 ---
 
 ## Certifications
 
-<div align="center">
-  <img src="assets/certifications.svg" width="1000" alt="Certifications" />
-</div>
+| Issuer | Credential |
+|---|---|
+| Anthropic | AI Fluency: Framework & Foundations · Claude 101 (2026) |
+| Deloitte | Technology Virtual Experience Program (2026) |
+| Goldman Sachs | Credit Risk Virtual Experience Program (2026) |
+| JPMorgan Chase | Quantitative Research Job Simulation (2026) |
+| HP LIFE | Data Science & Analytics · AI for Beginners (2025) |
 
 ---
 
 <div align="center">
 
-*Thanks for visiting — let's build something useful together.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7BD4,100:0B64D4&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<sub>Let's build something useful together.</sub>
 
 </div>
