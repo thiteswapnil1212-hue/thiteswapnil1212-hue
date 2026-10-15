@@ -21,16 +21,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thiteswapnil1212-hue&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/stars/thiteswapnil1212-hue?affiliations=OWNER&style=for-the-badge&color=0B64D4&labelColor=0d1117" alt="Stars" />
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" alt="About me" />
-</div>
 
 ## About Me
 
@@ -44,47 +39,11 @@
 - Designed, built and shipped the production website — Next.js, Three.js 3D room studio, SEO, products & projects showcase
 - Real users, real business — not a tutorial project
 
-**Top 10 Projects** — ranked by scope and impact
-
-1. **ANVIX AI** · [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
-   A multi-model AI coding IDE — chat with many LLMs through one unified interface. Workspaces, dashboard, code-generation tools, authentication, and PostgreSQL persistence, built over 276 commits.
-
-2. **Mauli Interior Website** · [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
-   Production website for a real Pune furnishing business — Next.js with a Three.js 3D room studio, products and projects showcases, and full SEO. Serves real customers, not a demo.
-
-3. **CuriousPARC 2026** · [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026)
-   Adaptive emergency-response intelligence system built for the CuriousPARC 2026 hackathon — three AI agents (risk assessment, resource & routing, response planning) coordinated by an orchestrator, with human-in-the-loop approval and live replanning when conditions change.
-
-4. **Nirman Drushti** · [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
-   Explainable infrastructure-intelligence platform built for Smart India Hackathon — turns government project-monitoring data (PAIMANA/MoSPI) into transparent indicators, predictive risk scores, and early warnings. Next.js frontend with a FastAPI + PostgreSQL backend.
-
-5. **VisionSwipe AI** · [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
-   Touch-free hand-gesture control system built with Python, MediaPipe, and OpenCV — a state-machine architecture translates hand movements into on-screen actions.
-
-6. **SkillGrid** · [Repo](https://github.com/thiteswapnil1212-hue/skillGrid)
-   Student productivity platform — tracks academics, DSA progress, habits, and focus time, with leaderboards to keep students accountable. Built with Next.js and Supabase.
-
-7. **Stocksense-AI** · [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI)
-   AI assistant for trading — pulls market data via yahoo-finance2, generates AI insights with OpenAI, and visualizes everything through interactive Recharts dashboards.
-
-8. **AI Agents Workshop** · [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop)
-   Hands-on experiments in tool-augmented AI reasoning — built with vLLM, Pydantic AI, and the Model Context Protocol (MCP).
-
-9. **English Learning App** · [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app)
-   English-learning web app for young students (ages 4–7), with a friendly mascot buddy guiding every lesson. Built with vanilla HTML, CSS, and JavaScript.
-
-10. **GesturePilot AI** · [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller)
-    Control games with bare hands — a Python-based gesture controller that maps hand movements to game inputs, no controller needed.
-
 ### Education
 
 **DY Patil Institute of Technology, Pimpri, Pune** — B.E. AI & Data Science, 2025–2029
 
 ---
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/QssGeuPlJhBB63t9h1/giphy.gif" width="60" alt="Skills" />
-</div>
 
 ## Skills & Tools
 
@@ -128,10 +87,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/jSKBmMbBbmfo2DPQIt/giphy.gif" width="60" alt="Contributions" />
-</div>
-
 ## Contributions
 
 <div align="center">
@@ -142,10 +97,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="60" alt="Activity" />
-</div>
 
 ## GitHub Activity
 
