@@ -71,12 +71,12 @@
 - **ANVIX AI** — Multi-model AI coding IDE with workspaces, auth & PostgreSQL. [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
 - **SkillGrid** — Student productivity platform: aptitude + company-DSA banks, social features, System Design practice. [Live](https://skill-grid-weld.vercel.app/) · *repo private*
 - **Mauli Interior** — Production furnishing-studio website with 3D room designer, live for a real business. [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
-- **CodeQuest AI** — Guided Python learning workspace: coding missions + AI mentor, local Pyodide execution. Team hackathon build (Vortexa), own public copy. [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai)
-- **SkillPath** — Adaptive learning & assessment portal with concept maps and knowledge tracing. Team hackathon build (Devkraft PS2), own public copy. [Repo](https://github.com/thiteswapnil1212-hue/skillpath)
+- **CodeQuest AI** — Guided Python learning workspace: coding missions + AI mentor, local Pyodide execution. Team hackathon build (Vortexa), own public copy. [Live](https://codequest-xi-eight.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai)
+- **SkillPath** — Adaptive learning & assessment portal with concept maps and knowledge tracing. Team hackathon build (Devkraft PS2), own public copy. [Live](https://devkraft-black.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/skillpath)
 - **Nirman Drushti** — Infrastructure intelligence on government data (Smart India Hackathon, internal round). [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
 - **VisionSwipe AI** — Touch-free hand-gesture control via MediaPipe + OpenCV. [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
 
-More: [30 public repositories](https://github.com/thiteswapnil1212-hue?tab=repositories) — including Skill-Sathi, CuriousPARC 2026 and DSA projects.
+More: [30 public repositories](https://github.com/thiteswapnil1212-hue?tab=repositories) — including [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi) ([Live](https://scheme-sathi-rose.vercel.app/)), CuriousPARC 2026 and DSA projects.
 
 ---
 
