@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B64D4&height=200&section=header&text=Swapnil%20Thite&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20Engineering%20%7C%20AI%20Infrastructure&descSize=17" width="100%" alt="Swapnil Thite" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B64D4&height=200&section=header&text=Swapnil%20Thite&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Building%20AI-Powered%20Web%20Apps&descSize=17" width="100%" alt="Swapnil Thite" />
 </div>
 
 <div align="center">
@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/Open%20to-SWE%20Internships-7C3AED?style=for-the-badge&logoColor=white" alt="Open to internships" />
 <img src="https://img.shields.io/badge/Pune-India-0B64D4?style=for-the-badge&logoColor=white" alt="Location" />
 
-<br/>
-
-<img src="https://img.shields.io/github/stars/thiteswapnil1212-hue?affiliations=OWNER&style=for-the-badge&color=0B64D4&labelColor=0d1117" alt="Stars" />
-
 </div>
 
 ---
@@ -39,6 +35,11 @@
 - Designed, built, and shipped the production website end-to-end — Next.js with a Three.js 3D room studio, products & projects showcases, full on-page SEO, WhatsApp enquiry deep-links
 - A live business asset — real users, real visibility, not a tutorial project
 
+### Recent Work
+
+- **SkillGrid** — student productivity platform with 1,152 aptitude and 1,205 company-DSA questions, social features and a System Design practice section — [live demo](https://skill-grid-weld.vercel.app/) (repo private)
+- **Team hackathon builds** — published my own public copies, full history preserved: [CodeQuest AI](https://github.com/thiteswapnil1212-hue/codequest-ai) (Vortexa), [SkillPath](https://github.com/thiteswapnil1212-hue/skillpath) (Devkraft PS2), [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi)
+
 ### Education
 
 **DY Patil Institute of Technology, Pimpri, Pune** — B.E. AI & Data Science, 2025–2029
@@ -48,12 +49,12 @@
 ## Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,ts,react,nextjs,tailwind,git,github,vercel&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nextjs,tailwind,supabase,git,github,vercel&perline=9" alt="Tech stack" />
 </div>
 
 <p align="center">
 
-`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `AI API Integration` · `OpenCV` · `MediaPipe`
+`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Supabase` · `AI API Integration` · `OpenCV` · `MediaPipe`
 
 </p>
 
@@ -65,17 +66,17 @@
 
 ---
 
-## Projects
+## Featured Projects
 
-<div align="center">
-  <img src="assets/projects-table.svg" width="1000" alt="Projects table" />
-</div>
+- **ANVIX AI** — Multi-model AI coding IDE with workspaces, auth & PostgreSQL. [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
+- **SkillGrid** — Student productivity platform: aptitude + company-DSA banks, social features, System Design practice. [Live](https://skill-grid-weld.vercel.app/) · *repo private*
+- **Mauli Interior** — Production furnishing-studio website with 3D room designer, live for a real business. [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+- **CodeQuest AI** — Guided Python learning workspace: coding missions + AI mentor, local Pyodide execution. Team hackathon build (Vortexa), own public copy. [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai)
+- **SkillPath** — Adaptive learning & assessment portal with concept maps and knowledge tracing. Team hackathon build (Devkraft PS2), own public copy. [Repo](https://github.com/thiteswapnil1212-hue/skillpath)
+- **Nirman Drushti** — Infrastructure intelligence on government data (Smart India Hackathon, internal round). [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
+- **VisionSwipe AI** — Touch-free hand-gesture control via MediaPipe + OpenCV. [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
 
-<p align="center">
-<sub>
-**ANVIX AI** [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) &nbsp;|&nbsp; **CuriousPARC 2026** [Live](https://cupriouspark.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) &nbsp;|&nbsp; **Nirman Drushti** [Live](https://frontend-pearl-delta-28.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) &nbsp;|&nbsp; **VisionSwipe AI** [Repo](https://github.com/thiteswapnil1212-hue/visionswip) &nbsp;|&nbsp; **Mauli Interior** [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) &nbsp;|&nbsp; **SkillGrid** [Live](https://skill-grid-weld.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/skillGrid) &nbsp;|&nbsp; **English Learning App** [Live](https://english-learning-app-eight-zeta.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) &nbsp;|&nbsp; **Stocksense-AI** [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) &nbsp;|&nbsp; **AI Agents Workshop** [Repo](https://github.com/thiteswapnil1212-hue/ai-agents-workshop) &nbsp;|&nbsp; **GesturePilot AI** [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) &nbsp;|&nbsp; **AI Photo Enhancer** [Repo](https://github.com/thiteswapnil1212-hue/AIphotoenhancer-)
-</sub>
-</p>
+More: [30 public repositories](https://github.com/thiteswapnil1212-hue?tab=repositories) — including Skill-Sathi, CuriousPARC 2026 and DSA projects.
 
 ---
 
@@ -84,8 +85,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="Repos per language" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=thiteswapnil1212-hue&theme=tokyonight&hide_border=true&card_width=495&card_height=180" width="60%" alt="Contribution streak" />
 </div>
 
 ---
