@@ -177,14 +177,14 @@ Private, no public link: hacklthonbackend, AI-infracture, SIH-project-, Smart-in
 ## Certifications
 
 <div align="center">
-  <img src="assets/certifications.svg" width="1000" alt="Certifications" />
+  <img src="assets/certifications-3d.svg" width="1000" alt="Certifications" />
 </div>
 
-- **JPMorgan Chase** — Quantitative Research Job Simulation (2026)
-- **Goldman Sachs** — Credit Risk Job Simulation (2026)
-- **Deloitte** — Technology Job Simulation (2026)
-- **Anthropic** — AI Fluency: Framework & Foundations (2026) · Claude 101 (2026)
-- **HP LIFE** — Data Science & Analytics (2025) · AI for Beginners (2025)
+- **JPMorgan Chase** — Quantitative Research Job Simulation (2026) — `FYjX368nh6AJkgBiP`
+- **Goldman Sachs** — Credit Risk Job Simulation (2026) — ID not listed (LinkedIn wrongly shows Deloitte's ID there)
+- **Deloitte** — Technology Job Simulation (2026) — `698a02ac22bd8ef07d9885ce`
+- **Anthropic** — AI Fluency: Framework & Foundations (2026) — `akfyr22eegfb` · Claude 101 (2026) — `aa34ifgqyq58`
+- **HP LIFE** — Data Science & Analytics (2025) — `6614150f-45b9-4668-bc26-0f80b0768d74` · AI for Beginners (2025) — `5ba2ee3-eca9-4718-861d-d6f29a25223d`
 
 ---
 
