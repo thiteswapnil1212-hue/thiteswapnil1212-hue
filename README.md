@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0B64D4&height=200&section=header&text=Swapnil%20Thite&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Building%20AI-Powered%20Web%20Apps&descSize=17" width="100%" alt="Swapnil Thite" />
+  <img src="assets/header-wave.svg" width="100%" alt="Swapnil Thite" />
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@
 
 ### Recent Work
 
-- **SkillGrid** — student productivity platform with 1,152 aptitude questions and 4,774 company-DSA problems across 90 companies, social features and a System Design practice section — [live demo](https://skill-grid-weld.vercel.app/) (repo private)
+- **SkillGrid** — student productivity platform with 1,152 aptitude questions and 4,700+ company-DSA problems across 90 companies, social features and a System Design practice section — [live demo](https://skill-grid-weld.vercel.app/) (repo private)
 - **Team hackathon builds** — published my own public copies, full history preserved: [CodeQuest AI](https://github.com/thiteswapnil1212-hue/codequest-ai) (Vortexa), [SkillPath](https://github.com/thiteswapnil1212-hue/skillpath) (Devkraft PS2), [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi)
 
 ### Education
@@ -147,6 +147,6 @@ More in [my repositories](https://github.com/thiteswapnil1212-hue?tab=repositori
 
 *Thanks for visiting — let's build something useful together.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7BD4,100:0B64D4&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<img src="assets/footer-wave.svg" width="100%" alt="Footer" />
 
 </div>

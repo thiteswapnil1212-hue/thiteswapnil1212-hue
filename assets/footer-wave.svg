@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" font-family="Inter,-apple-system,'Segoe UI',sans-serif">
+  <defs>
+    <linearGradient id="fwave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B64D4" stop-opacity=".8"/>
+      <stop offset=".5" stop-color="#4E7BD4" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity=".8"/>
+    </linearGradient>
+  </defs>
+  <g opacity=".85">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-1000 0" dur="16s" repeatCount="indefinite"/>
+    <path d="M0,55 C125,25 250,85 375,55 C500,25 625,85 750,55 C875,25 1000,85 1125,55 C1250,25 1375,85 1500,55 C1625,25 1750,85 1875,55 C2000,25 2000,25 2000,55 L2000,120 L0,120 Z" fill="url(#fwave1)"/>
+  </g>
+  <g opacity=".45">
+    <animateTransform attributeName="transform" type="translate" values="-1000 0;0 0" dur="20s" repeatCount="indefinite"/>
+    <path d="M0,75 C125,50 250,100 375,75 C500,50 625,100 750,75 C875,50 1000,100 1125,75 C1250,50 1375,100 1500,75 C1625,50 1750,100 1875,75 C2000,50 2000,50 2000,75 L2000,120 L0,120 Z" fill="#7C3AED"/>
+  </g>
+</svg>
