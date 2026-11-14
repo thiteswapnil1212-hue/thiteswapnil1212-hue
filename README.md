@@ -37,6 +37,8 @@
 
 ## About Me
 
+Second-year AI &amp; DS student who ships real products — not tutorial projects.
+
 <div align="center">
   <img src="assets/about-animated.svg" width="800" alt="About Swapnil Thite — animated terminal" />
 </div>
@@ -82,14 +84,22 @@
 
 ## Featured Projects
 
-- **ANVIX AI** — Multi-model AI coding IDE with workspaces, auth & PostgreSQL. [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
-- **SkillGrid** — Student productivity platform: aptitude + company-DSA banks, social features, System Design practice. [Live](https://skill-grid-weld.vercel.app/) · *repo private*
-- **Mauli Interior** — Production furnishing-studio website with 3D room designer, live for a real business. [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
-- **CodeQuest AI** — Guided Python learning workspace: coding missions + AI mentor, local Pyodide execution. Team hackathon build (Vortexa), own public copy. [Live](https://codequest-xi-eight.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai)
-- **SkillPath** — Adaptive learning & assessment portal with concept maps and knowledge tracing. Team hackathon build (Devkraft PS2), own public copy. [Live](https://devkraft-black.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/skillpath)
-- **Nirman Drushti** — Infrastructure intelligence on government data (Smart India Hackathon, internal round). [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
-- **VisionSwipe AI** — Touch-free hand-gesture control via MediaPipe + OpenCV. [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
-- **Smart Cinema (CEPL)** — Seat booking + QR ticket verification + admin dashboard + Arduino IR-sensor demonstrator; patent Form 2 drafted (inventor).
+### 🚀 Flagship
+
+- **ANVIX AI** — Multi-model AI coding IDE with workspaces, auth & PostgreSQL. `Next.js` · `Supabase` · `PostgreSQL` — [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
+- **SkillGrid** — Student productivity platform: aptitude + company-DSA banks, social features, System Design practice. `Next.js 16` · `Supabase` · `TypeScript` — [Live](https://skill-grid-weld.vercel.app/) · *repo private*
+- **Mauli Interior** — Production furnishing-studio website with 3D room designer, live for a real business. `Next.js` · `Three.js` · `SEO` — [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+
+### 🏆 Hackathon builds
+
+- **CodeQuest AI** — Guided Python learning workspace: coding missions + AI mentor, local Pyodide execution. Team hackathon build (Vortexa), own public copy. `Python` · `Pyodide` · `AI mentor` — [Live](https://codequest-xi-eight.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai)
+- **SkillPath** — Adaptive learning & assessment portal with concept maps and knowledge tracing. Team hackathon build (Devkraft PS2), own public copy. `Concept maps` · `Knowledge tracing` — [Live](https://devkraft-black.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/skillpath)
+- **Nirman Drushti** — Infrastructure intelligence on government data (Smart India Hackathon, internal round). `Govt data` · `Infra intelligence` — [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
+
+### 🧪 Experiments & college builds
+
+- **VisionSwipe AI** — Touch-free hand-gesture control via MediaPipe + OpenCV. `MediaPipe` · `OpenCV` — [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
+- **Smart Cinema (CEPL)** — Seat booking + QR ticket verification + admin dashboard + Arduino IR-sensor demonstrator; patent Form 2 drafted (inventor). `Arduino` · `IR sensors` · `QR tickets`
 
 More in [my repositories](https://github.com/thiteswapnil1212-hue?tab=repositories) — including [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi) ([Live](https://scheme-sathi-rose.vercel.app/)), CuriousPARC 2026 and DSA projects.
 
@@ -108,12 +118,6 @@ More in [my repositories](https://github.com/thiteswapnil1212-hue?tab=repositori
 ## GitHub Activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/thiteswapnil1212-hue/thiteswapnil1212-hue/output/snake-dark.svg" width="100%">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
