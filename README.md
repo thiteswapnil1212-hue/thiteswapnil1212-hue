@@ -41,11 +41,11 @@
   <img src="assets/about-animated.svg" width="800" alt="About Swapnil Thite — animated terminal" />
 </div>
 
-- 🎓 **B.E. AI & Data Science, DY Patil Institute of Technology, Pimpri, Pune** — 2025–2029 · CGPA **8.93/10**
-- 💻 Building **SkillGrid** (student productivity platform) and **ANVIX AI** (multi-model AI coding IDE)
-- 🏆 Hackathons: **Smart India Hackathon** (Nirman Drushti) · **CuriousPARC 2026** (Adaptive Emergency Response, 3-agent system) · **Devkraft PS2 2026** (SkillPath)
-- 💼 Open to **SWE internships** — part-time, remote
-- 📍 Pune, India · 📫 **thiteswapnil1212@gmail.com** · 📞 +91 82088 11046
+🔭 I'm currently building **SkillGrid** — student productivity platform with 1,152 aptitude questions and 4,700+ company-DSA problems across 90 companies — and **ANVIX AI**, a multi-model AI coding IDE.
+
+🏆 Hackathons: **Smart India Hackathon** (Nirman Drushti) · **CuriousPARC 2026** (Adaptive Emergency Response, 3-agent system) · **Devkraft PS2 2026** (SkillPath)
+
+📫 **thiteswapnil1212@gmail.com** · 📞 +91 82088 11046
 
 ### Experience
 
@@ -57,10 +57,6 @@
 
 - **SkillGrid** — student productivity platform with 1,152 aptitude questions and 4,700+ company-DSA problems across 90 companies, social features and a System Design practice section — [live demo](https://skill-grid-weld.vercel.app/) (repo private)
 - **Team hackathon builds** — published my own public copies, full history preserved: [CodeQuest AI](https://github.com/thiteswapnil1212-hue/codequest-ai) (Vortexa), [SkillPath](https://github.com/thiteswapnil1212-hue/skillpath) (Devkraft PS2), [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi)
-
-### Education
-
-**DY Patil Institute of Technology, Pimpri, Pune** — B.E. AI & Data Science, 2025–2029 · CGPA 8.93/10
 
 ---
 
