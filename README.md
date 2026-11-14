@@ -86,6 +86,10 @@ Second-year AI &amp; DS student who ships real products — not tutorial project
 
 27 projects on GitHub — flagship products, hackathon builds, AI tools, and starter code. Live links checked 14 Nov 2026; the rest are repo-only.
 
+<div align="center">
+  <img src="assets/featured-3d.svg" width="1000" alt="Featured projects" />
+</div>
+
 ### 🚀 Flagship
 
 | Project | What it is | Live | Repo |
