@@ -192,6 +192,23 @@ Private, no public link: hacklthonbackend, AI-infracture, SIH-project-, Smart-in
 
 ---
 
+## Achievements
+
+<div align="center">
+  <a href="https://github.com/thiteswapnil1212-hue?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120" alt="Pull Shark" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120" alt="YOLO" />
+  </a>
+</div>
+
+<p align="center">
+
+🦈 **Pull Shark** — merged pull requests · 🚀 **YOLO** — merged a PR with no review
+
+</p>
+
+---
+
 <div align="center">
 
 *Thanks for visiting — let's build something useful together.*
