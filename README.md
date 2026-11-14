@@ -82,26 +82,72 @@ Second-year AI &amp; DS student who ships real products — not tutorial project
 
 ---
 
-## Featured Projects
+## Projects
+
+27 projects on GitHub — flagship products, hackathon builds, AI tools, and starter code. Live links checked 14 Nov 2026; the rest are repo-only.
 
 ### 🚀 Flagship
 
-- **ANVIX AI** — Multi-model AI coding IDE with workspaces, auth & PostgreSQL. `Next.js` · `Supabase` · `PostgreSQL` — [Live](https://anvix-ai.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI)
-- **SkillGrid** — Student productivity platform: aptitude + company-DSA banks, social features, System Design practice. `Next.js 16` · `Supabase` · `TypeScript` — [Live](https://skill-grid-weld.vercel.app/) · *repo private*
-- **Mauli Interior** — Production furnishing-studio website with 3D room designer, live for a real business. `Next.js` · `Three.js` · `SEO` — [Live](https://mauliinterior-stores-web.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB)
+| Project | What it is | Live | Repo |
+|---|---|---|---|
+| **ANVIX AI** | Multi-model AI coding IDE — workspaces, auth, PostgreSQL | [Live](https://anvix-ai.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) |
+| **SkillGrid** | Student productivity platform — academics, DSA, projects, habits, friends & leaderboards | [Live](https://skill-grid-weld.vercel.app/) | *private* |
+| **Mauli Interior** | Family furnishing-business site — 3D room designer, showcases, WhatsApp enquiries | [Live](https://mauliinterior-stores-web.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) |
 
 ### 🏆 Hackathon builds
 
-- **CodeQuest AI** — Guided Python learning workspace: coding missions + AI mentor, local Pyodide execution. Team hackathon build (Vortexa), own public copy. `Python` · `Pyodide` · `AI mentor` — [Live](https://codequest-xi-eight.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai)
-- **SkillPath** — Adaptive learning & assessment portal with concept maps and knowledge tracing. Team hackathon build (Devkraft PS2), own public copy. `Concept maps` · `Knowledge tracing` — [Live](https://devkraft-black.vercel.app/) · [Repo](https://github.com/thiteswapnil1212-hue/skillpath)
-- **Nirman Drushti** — Infrastructure intelligence on government data (Smart India Hackathon, internal round). `Govt data` · `Infra intelligence` — [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti)
+| Project | What it is | Live | Repo |
+|---|---|---|---|
+| **CodeQuest AI** | Guided Python learning — missions, AI mentor, Pyodide execution (Vortexa) | [Live](https://codequest-xi-eight.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai) |
+| **SkillPath** | Adaptive learning portal — concept maps, knowledge tracing (Devkraft PS2) | [Live](https://devkraft-black.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/skillpath) |
+| **Nirman Drushti** | Infra intelligence on govt data — project monitoring, risk analysis (SIH) | — | [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) |
+| **cupric2026** | Adaptive Emergency Response — AI agents draft plans, human approval, live replanning (CuriousPARC 2026) | — | [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) |
 
-### 🧪 Experiments & college builds
+### 🤖 Apps & AI tools
 
-- **VisionSwipe AI** — Touch-free hand-gesture control via MediaPipe + OpenCV. `MediaPipe` · `OpenCV` — [Repo](https://github.com/thiteswapnil1212-hue/visionswip)
-- **Smart Cinema (CEPL)** — Seat booking + QR ticket verification + admin dashboard + Arduino IR-sensor demonstrator; patent Form 2 drafted (inventor). `Arduino` · `IR sensors` · `QR tickets`
+| Project | What it is | Live | Repo |
+|---|---|---|---|
+| **Skill-Sathi** | Govt benefits checker — which schemes you qualify for (PS16) | [Live](https://scheme-sathi-rose.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/skill-sathi) |
+| **Stocksense-AI** | AI assistant for stock trading analysis | — | [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
+| **ai-photo-enhancer** | Single-page photo enhancement demo | — | [Repo](https://github.com/thiteswapnil1212-hue/ai-photo-enhancer) |
+| **English-learning-app** | English learning app for students aged 4–7 | — | [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) |
+| **Hill-climb-racing-controller** | GesturePilot — control games with bare hands (MediaPipe + OpenCV) | — | [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
+| **VisionSwipe AI** | Touch-free hand-gesture control (MediaPipe + OpenCV) | — | [Repo](https://github.com/thiteswapnil1212-hue/visionswip) |
 
-More in [my repositories](https://github.com/thiteswapnil1212-hue?tab=repositories) — including [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi) ([Live](https://scheme-sathi-rose.vercel.app/)), CuriousPARC 2026 and DSA projects.
+### 🏠 Mauli Interior — site drafts
+
+| Project | What it is | Live | Repo |
+|---|---|---|---|
+| **interior-studio** | Earlier Mauli site prototype — superseded by INTERIOR-STORES-WEB | — | [Repo](https://github.com/thiteswapnil1212-hue/interior-studio) |
+| **interiorstudio** | Interior site draft — no description yet | — | [Repo](https://github.com/thiteswapnil1212-hue/interiorstudio) |
+| **website-interior-studio** | Mauli Interior shop site | — | [Repo](https://github.com/thiteswapnil1212-hue/website-interior-studio) |
+| **developement-shop** | Interior store site (draft) | — | [Repo](https://github.com/thiteswapnil1212-hue/developement-shop) |
+| **new-website-** | Website draft — no description yet | — | [Repo](https://github.com/thiteswapnil1212-hue/new-website-) |
+| **developement** | Website draft — no description yet | — | [Repo](https://github.com/thiteswapnil1212-hue/developement) |
+
+### 📚 Learning & tools
+
+| Project | What it is | Live | Repo |
+|---|---|---|---|
+| **devlvlup** | Evidence-first career audit — scores repos on quality, architecture, testing, security, docs | — | [Repo](https://github.com/thiteswapnil1212-hue/devlvlup) |
+| **DSA-project-** | Campus navigation in C — graph shortest-path routing | — | [Repo](https://github.com/thiteswapnil1212-hue/DSA-project-) |
+
+### 🧰 DripCode Build Projects — starter code
+
+Starter repos — structure + README only, no solution code.
+
+| Project | What it is | Live | Repo |
+|---|---|---|---|
+| **dripcode-starter-flask-microblog** | Flask Microblog starter (Python + Flask) | — | [Repo](https://github.com/thiteswapnil1212-hue/dripcode-starter-flask-microblog) |
+| **dripcode-starter-todo-app** | Todo App starter (vanilla JS + LocalStorage) | — | [Repo](https://github.com/thiteswapnil1212-hue/dripcode-starter-todo-app) |
+| **dripcode-starter-ecommerce-store** | E-commerce Store starter (React + Context API) | — | [Repo](https://github.com/thiteswapnil1212-hue/dripcode-starter-ecommerce-store) |
+| **dripcode-starter-conduit** | Conduit / Medium clone starter (React + RealWorld API) | — | [Repo](https://github.com/thiteswapnil1212-hue/dripcode-starter-conduit) |
+| **dripcode-starter-chat-app** | Chat App starter (React + Node + Socket.io) | — | [Repo](https://github.com/thiteswapnil1212-hue/dripcode-starter-chat-app) |
+| **dripcode-starter-trello-clone** | Trello Clone starter (React + Strapi) | — | [Repo](https://github.com/thiteswapnil1212-hue/dripcode-starter-trello-clone) |
+
+Also built: **Smart Cinema (CEPL)** — seat booking + QR ticket verification + admin dashboard + Arduino IR-sensor demonstrator; patent Form 2 drafted (inventor). Repo deleted, so no link.
+
+Private, no public link: hacklthonbackend, AI-infracture, SIH-project-, Smart-india-final-repo — hackathon backends.
 
 ---
 
