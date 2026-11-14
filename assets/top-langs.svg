@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 200" font-family="Inter,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="448" height="198" rx="6" fill="#1a1b27" stroke="#414868" stroke-width="1"/>
+  <text x="20" y="36" font-size="22" font-weight="600" fill="#70a5fd">Top Languages</text>
+  <text x="20" y="54" font-size="12" fill="#565f89">by repo · public repos · shares as of Nov 2026</text>
+  <g font-size="14" fill="#a9b1d6">
+    <rect x="20" y="70" width="12" height="12" fill="#3178c6"/><text x="40" y="81">TypeScript</text><text x="140" y="81" fill="#9ece6a">37.5%</text>
+    <rect x="20" y="96" width="12" height="12" fill="#e34c26"/><text x="40" y="107">HTML</text><text x="140" y="107" fill="#9ece6a">32.5%</text>
+    <rect x="20" y="122" width="12" height="12" fill="#f1e05a"/><text x="40" y="133">JavaScript</text><text x="140" y="133" fill="#9ece6a">15.0%</text>
+    <rect x="20" y="148" width="12" height="12" fill="#3572a5"/><text x="40" y="159">Python</text><text x="140" y="159" fill="#9ece6a">12.5%</text>
+    <rect x="20" y="174" width="12" height="12" fill="#555555"/><text x="40" y="185">C</text><text x="140" y="185" fill="#9ece6a">2.5%</text>
+  </g>
+  <g transform="rotate(-90 340 105)" fill="none" stroke-width="26">
+    <circle cx="340" cy="105" r="70" stroke="#3178c6" stroke-dasharray="164.93 439.82" stroke-dashoffset="0"/>
+    <circle cx="340" cy="105" r="70" stroke="#e34c26" stroke-dasharray="142.94 439.82" stroke-dashoffset="-164.93"/>
+    <circle cx="340" cy="105" r="70" stroke="#f1e05a" stroke-dasharray="65.97 439.82" stroke-dashoffset="-307.87"/>
+    <circle cx="340" cy="105" r="70" stroke="#3572a5" stroke-dasharray="54.98 439.82" stroke-dashoffset="-373.85"/>
+    <circle cx="340" cy="105" r="70" stroke="#555555" stroke-dasharray="11.00 439.82" stroke-dashoffset="-428.82"/>
+  </g>
+</svg>

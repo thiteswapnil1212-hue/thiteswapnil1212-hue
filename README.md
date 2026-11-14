@@ -109,8 +109,7 @@ More in [my repositories](https://github.com/thiteswapnil1212-hue?tab=repositori
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="Repos per language" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="GitHub streak" />
+  <img src="assets/top-langs.svg" width="49%" alt="Top languages by repo" />
 </div>
 
 ---
