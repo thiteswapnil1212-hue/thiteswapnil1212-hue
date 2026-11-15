@@ -53,6 +53,10 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 
 ## Experience
 
+<div align="center">
+  <img src="assets/experience-3d.svg" width="1000" alt="Experience" />
+</div>
+
 **Web Developer — Mauli Interior, Pune** *(family furnishing business)*
 - Designed, built, and shipped the production website end-to-end — Next.js with a Three.js 3D room studio, product & project showcases, full on-page SEO, and WhatsApp enquiry deep-links — [live site](https://mauliinterior-stores-web.vercel.app/)
 - Run the business's online outreach too — B2B cold-email campaigns with reply tracking and follow-ups
