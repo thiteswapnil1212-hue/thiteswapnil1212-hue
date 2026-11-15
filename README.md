@@ -92,7 +92,7 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 
 ## Projects
 
-27 projects on GitHub — flagship products, hackathon builds, AI tools, and starter code. Live links checked 14 Nov 2026; the rest are repo-only.
+21 projects on GitHub — flagship products, hackathon builds, AI tools, and starter code. Live links checked 14 Nov 2026; the rest are repo-only.
 
 <div align="center">
   <img src="assets/featured-3d.svg" width="1000" alt="Featured projects" />
@@ -126,17 +126,6 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 | **Hill-climb-racing-controller** | GesturePilot — control games with bare hands (MediaPipe + OpenCV) | — | [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
 | **VisionSwipe AI** | Touch-free hand-gesture control (MediaPipe + OpenCV) | — | [Repo](https://github.com/thiteswapnil1212-hue/visionswip) |
 
-### 🏠 Mauli Interior — site drafts
-
-| Project | What it is | Live | Repo |
-|---|---|---|---|
-| **interior-studio** | Earlier Mauli site prototype — superseded by INTERIOR-STORES-WEB | — | [Repo](https://github.com/thiteswapnil1212-hue/interior-studio) |
-| **interiorstudio** | Interior site draft — no description yet | — | [Repo](https://github.com/thiteswapnil1212-hue/interiorstudio) |
-| **website-interior-studio** | Mauli Interior shop site | — | [Repo](https://github.com/thiteswapnil1212-hue/website-interior-studio) |
-| **developement-shop** | Interior store site (draft) | — | [Repo](https://github.com/thiteswapnil1212-hue/developement-shop) |
-| **new-website-** | Website draft — no description yet | — | [Repo](https://github.com/thiteswapnil1212-hue/new-website-) |
-| **developement** | Website draft — no description yet | — | [Repo](https://github.com/thiteswapnil1212-hue/developement) |
-
 ### 📚 Learning & tools
 
 | Project | What it is | Live | Repo |
@@ -159,7 +148,7 @@ Starter repos — structure + README only, no solution code.
 
 Also built: **Smart Cinema (CEPL)** — seat booking + QR ticket verification + admin dashboard + Arduino IR-sensor demonstrator; patent Form 2 drafted (inventor). Repo deleted, so no link.
 
-Private, no public link: hacklthonbackend, AI-infracture, SIH-project-, Smart-india-final-repo — hackathon backends.
+Private, no public link: SIH-project-, Smart-india-final-repo — hackathon backends.
 
 ---
 
