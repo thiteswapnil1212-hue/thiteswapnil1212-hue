@@ -73,18 +73,18 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 ## Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nextjs,tailwind,supabase,git,github,vercel&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,react,nextjs,nodejs,tailwind,supabase,fastapi,postgres,git,github,vercel&perline=9" alt="Tech stack" />
 </div>
 
 <p align="center">
 
-`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Supabase` · `AI API Integration` · `OpenCV` · `MediaPipe`
+`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind CSS` · `Supabase` · `FastAPI` · `PostgreSQL` · `AI API Integration` · `OpenCV` · `MediaPipe` · `Git` · `GitHub` · `Vercel`
 
 </p>
 
 <p align="center">
 
-🌱 Currently learning: `Java` · `DSA` · `OOP` · `SQL` · `Spring Boot` · `PostgreSQL`
+🌱 Currently learning: `Java` · `DSA` · `OOP` · `SQL` · `Spring Boot`
 
 </p>
 
