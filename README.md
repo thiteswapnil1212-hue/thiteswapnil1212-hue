@@ -43,7 +43,7 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
   <img src="assets/about-animated.svg" width="800" alt="About Swapnil Thite — animated terminal" />
 </div>
 
-🔭 Currently building **SkillGrid** (student productivity platform — aptitude, company-DSA, mock interviews, friends & leaderboards) and **ANVIX AI** (multi-model AI coding IDE with workspaces and PostgreSQL).
+🔭 Currently building **SkillGrid** (student productivity platform — aptitude, company-DSA, mock interviews, friends & leaderboards) and **ANVIX AI** (AI coding IDE with workspaces and PostgreSQL).
 
 💡 What I do: full-stack web products and AI systems — Next.js + TypeScript frontends, FastAPI/Supabase backends, and LLM-powered features that actually ship.
 
@@ -102,7 +102,7 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 
 | Project | What it is | Live | Repo |
 |---|---|---|---|
-| **ANVIX AI** | Multi-model AI coding IDE — workspaces, auth, PostgreSQL | [Live](https://anvix-ai.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) |
+| **ANVIX AI** | AI coding IDE — workspaces, auth, PostgreSQL | [Live](https://anvix-ai.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/ANVIX-AI) |
 | **SkillGrid** | Student productivity platform — academics, DSA, projects, habits, friends & leaderboards | [Live](https://skill-grid-weld.vercel.app/) | *private* |
 | **Mauli Interior** | Family furnishing-business site — 3D room designer, showcases, WhatsApp enquiries | [Live](https://mauliinterior-stores-web.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/INTERIOR-STORES-WEB) |
 
