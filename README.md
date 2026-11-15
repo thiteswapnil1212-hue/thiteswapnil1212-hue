@@ -37,28 +37,32 @@
 
 ## About Me
 
-Second-year AI &amp; DS student who ships real products — not tutorial projects.
+Second-year AI &amp; DS student who ships real products end to end — not tutorial projects.
 
 <div align="center">
   <img src="assets/about-animated.svg" width="800" alt="About Swapnil Thite — animated terminal" />
 </div>
 
-🔭 I'm currently building **SkillGrid** — student productivity platform with 1,152 aptitude questions and 4,700+ company-DSA problems across 90 companies — and **ANVIX AI**, a multi-model AI coding IDE.
+🔭 Currently building **SkillGrid** (student productivity platform — aptitude, company-DSA, mock interviews, friends & leaderboards) and **ANVIX AI** (multi-model AI coding IDE with workspaces and PostgreSQL).
 
-🏆 Hackathons: **Smart India Hackathon** (Nirman Drushti) · **CuriousPARC 2026** (Adaptive Emergency Response, 3-agent system) · **Devkraft PS2 2026** (SkillPath)
+💡 What I do: full-stack web products and AI systems — Next.js + TypeScript frontends, FastAPI/Supabase backends, and LLM-powered features that actually ship.
 
 📫 **thiteswapnil1212@gmail.com** · 📞 +91 82088 11046
 
-### Experience
+---
+
+## Experience
 
 **Web Developer — Mauli Interior, Pune** *(family furnishing business)*
-- Designed, built, and shipped the production website end-to-end — Next.js with a Three.js 3D room studio, products & projects showcases, full on-page SEO, WhatsApp enquiry deep-links
-- A live business asset — real users, real visibility, not a tutorial project
+- Designed, built, and shipped the production website end-to-end — Next.js with a Three.js 3D room studio, product & project showcases, full on-page SEO, and WhatsApp enquiry deep-links — [live site](https://mauliinterior-stores-web.vercel.app/)
+- Run the business's online outreach too — B2B cold-email campaigns with reply tracking and follow-ups
 
-### Recent Work
+**Backend & AI — CuriousPARC 2026 hackathon team**
+- Built the backend and AI agents for an Adaptive Emergency Response system: 3 agents (Risk, Resource & Routing, Response Planning) + orchestrator, human-in-the-loop approval, and live replanning on simulated events
 
-- **SkillGrid** — student productivity platform with 1,152 aptitude questions and 4,700+ company-DSA problems across 90 companies, social features and a System Design practice section — [live demo](https://skill-grid-weld.vercel.app/) (repo private)
-- **Team hackathon builds** — published my own public copies, full history preserved: [CodeQuest AI](https://github.com/thiteswapnil1212-hue/codequest-ai) (Vortexa), [SkillPath](https://github.com/thiteswapnil1212-hue/skillpath) (Devkraft PS2), [Skill-Sathi](https://github.com/thiteswapnil1212-hue/skill-sathi)
+**Team Builds — Devkraft PS2 2026 & Smart India Hackathon**
+- **SkillPath** (Devkraft PS2) — adaptive learning portal with concept maps, knowledge tracing, and a coding arena
+- **Nirman Drushti** (SIH) — infrastructure intelligence on government data: project monitoring, cost intelligence, and risk analysis
 
 ---
 
