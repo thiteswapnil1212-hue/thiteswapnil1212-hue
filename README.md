@@ -92,7 +92,7 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 
 ## Projects
 
-21 projects on GitHub — flagship products, hackathon builds, AI tools, and starter code. Live links checked 14 Nov 2026; the rest are repo-only.
+21 projects on GitHub — flagship products, hackathon builds, AI tools, and starter code. Live links checked 16 Nov 2026; the rest are repo-only.
 
 <div align="center">
   <img src="assets/featured-3d.svg" width="1000" alt="Featured projects" />
@@ -112,17 +112,17 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 |---|---|---|---|
 | **CodeQuest AI** | Guided Python learning — missions, AI mentor, Pyodide execution (Vortexa) | [Live](https://codequest-xi-eight.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/codequest-ai) |
 | **SkillPath** | Adaptive learning portal — concept maps, knowledge tracing (Devkraft PS2) | [Live](https://devkraft-black.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/skillpath) |
-| **Nirman Drushti** | Infra intelligence on govt data — project monitoring, risk analysis (SIH) | — | [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) |
-| **cupric2026** | Adaptive Emergency Response — AI agents draft plans, human approval, live replanning (CuriousPARC 2026) | — | [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) |
+| **Nirman Drushti** | Infra intelligence on govt data — project monitoring, risk analysis (SIH) | [Live](https://frontend-thiteswapnil1212-hues-projects.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/nirman-drushti) |
+| **cupric2026** | Adaptive Emergency Response — AI agents draft plans, human approval, live replanning (CuriousPARC 2026) | [Live](https://cupriouspark.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/cupric2026) |
 
 ### 🤖 Apps & AI tools
 
 | Project | What it is | Live | Repo |
 |---|---|---|---|
 | **Skill-Sathi** | Govt benefits checker — which schemes you qualify for (PS16) | [Live](https://scheme-sathi-rose.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/skill-sathi) |
-| **Stocksense-AI** | AI assistant for stock trading analysis | — | [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
-| **ai-photo-enhancer** | Single-page photo enhancement demo | — | [Repo](https://github.com/thiteswapnil1212-hue/ai-photo-enhancer) |
-| **English-learning-app** | English learning app for students aged 4–7 | — | [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) |
+| **Stocksense-AI** | AI assistant for stock trading analysis | [Live](https://stocksense-ai-thiteswapnil1212-hues-projects.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/Stocksense-AI) |
+| **ai-photo-enhancer** | Single-page photo enhancement demo | [Live](https://ai-photo-enhancer-thiteswapnil1212-hues-projects.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/ai-photo-enhancer) |
+| **English-learning-app** | English learning app for students aged 4–7 | [Live](https://english-learning-app-thiteswapnil1212-hues-projects.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/English-learning-app) |
 | **Hill-climb-racing-controller** | GesturePilot — control games with bare hands (MediaPipe + OpenCV) | — | [Repo](https://github.com/thiteswapnil1212-hue/Hill-climb-racing-controller) |
 | **VisionSwipe AI** | Touch-free hand-gesture control (MediaPipe + OpenCV) | — | [Repo](https://github.com/thiteswapnil1212-hue/visionswip) |
 
@@ -130,7 +130,7 @@ Second-year AI &amp; DS student who ships real products end to end — not tutor
 
 | Project | What it is | Live | Repo |
 |---|---|---|---|
-| **devlvlup** | Evidence-first career audit — scores repos on quality, architecture, testing, security, docs | — | [Repo](https://github.com/thiteswapnil1212-hue/devlvlup) |
+| **devlvlup** | Evidence-first career audit — scores repos on quality, architecture, testing, security, docs | [Live](https://devlvlup-thiteswapnil1212-hues-projects.vercel.app/) | [Repo](https://github.com/thiteswapnil1212-hue/devlvlup) |
 | **DSA-project-** | Campus navigation in C — graph shortest-path routing | — | [Repo](https://github.com/thiteswapnil1212-hue/DSA-project-) |
 
 ### 🧰 DripCode Build Projects — starter code
