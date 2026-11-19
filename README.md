@@ -155,7 +155,7 @@ Private, no public link: SIH-project-, Smart-india-final-repo — hackathon back
 ## Contributions
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiteswapnil1212-hue&theme=tokyonight" width="49%" alt="GitHub stats" />
+  <img src="assets/stats.svg" width="49%" alt="GitHub stats" />
   <img src="assets/top-langs.svg" width="49%" alt="Top languages by repo" />
 </div>
 
